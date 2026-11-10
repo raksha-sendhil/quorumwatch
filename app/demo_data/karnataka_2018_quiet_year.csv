@@ -1,0 +1,2011 @@
+date,facility_id,cases
+2017-09-25,Bagalkote,17
+2017-09-25,Ballari,0
+2017-09-25,Belagavi,2
+2017-09-25,Bengaluru Rural,1
+2017-09-25,Bengaluru Urban,284
+2017-09-25,Bidar,10
+2017-09-25,Chamarajanagara,5
+2017-09-25,Chikkaballapura,0
+2017-09-25,Chikkamagaluru,2
+2017-09-25,Chitradurga,20
+2017-09-25,Dakshina Kannada,0
+2017-09-25,Davangere,35
+2017-09-25,Dharwad,0
+2017-09-25,Gadag,12
+2017-09-25,Hassan,8
+2017-09-25,Haveri,12
+2017-09-25,Kalaburagi,0
+2017-09-25,Kodagu,2
+2017-09-25,Kolar,0
+2017-09-25,Koppal,6
+2017-09-25,Mandya,14
+2017-09-25,Mysuru,16
+2017-09-25,Raichur,3
+2017-09-25,Ramanagara,0
+2017-09-25,Shivamogga,7
+2017-09-25,Tumakuru,0
+2017-09-25,Udupi,8
+2017-09-25,Uttara Kannada,6
+2017-09-25,Vijayapura,1
+2017-09-25,Yadgir,0
+2017-10-02,Bagalkote,1
+2017-10-02,Ballari,13
+2017-10-02,Belagavi,1
+2017-10-02,Bengaluru Rural,0
+2017-10-02,Bengaluru Urban,5
+2017-10-02,Bidar,3
+2017-10-02,Chamarajanagara,0
+2017-10-02,Chikkaballapura,10
+2017-10-02,Chikkamagaluru,6
+2017-10-02,Chitradurga,18
+2017-10-02,Dakshina Kannada,2
+2017-10-02,Davangere,26
+2017-10-02,Dharwad,0
+2017-10-02,Gadag,9
+2017-10-02,Hassan,0
+2017-10-02,Haveri,14
+2017-10-02,Kalaburagi,0
+2017-10-02,Kodagu,1
+2017-10-02,Kolar,3
+2017-10-02,Koppal,0
+2017-10-02,Mandya,8
+2017-10-02,Mysuru,0
+2017-10-02,Raichur,5
+2017-10-02,Ramanagara,0
+2017-10-02,Shivamogga,0
+2017-10-02,Tumakuru,5
+2017-10-02,Udupi,3
+2017-10-02,Uttara Kannada,14
+2017-10-02,Vijayapura,2
+2017-10-02,Yadgir,0
+2017-10-09,Bagalkote,0
+2017-10-09,Ballari,0
+2017-10-09,Belagavi,0
+2017-10-09,Bengaluru Rural,0
+2017-10-09,Bengaluru Urban,0
+2017-10-09,Bidar,4
+2017-10-09,Chamarajanagara,9
+2017-10-09,Chikkaballapura,0
+2017-10-09,Chikkamagaluru,0
+2017-10-09,Chitradurga,18
+2017-10-09,Dakshina Kannada,4
+2017-10-09,Davangere,0
+2017-10-09,Dharwad,0
+2017-10-09,Gadag,12
+2017-10-09,Hassan,0
+2017-10-09,Haveri,14
+2017-10-09,Kalaburagi,89
+2017-10-09,Kodagu,0
+2017-10-09,Kolar,0
+2017-10-09,Koppal,23
+2017-10-09,Mandya,5
+2017-10-09,Mysuru,7
+2017-10-09,Raichur,3
+2017-10-09,Ramanagara,1
+2017-10-09,Shivamogga,18
+2017-10-09,Tumakuru,0
+2017-10-09,Udupi,4
+2017-10-09,Uttara Kannada,0
+2017-10-09,Vijayapura,6
+2017-10-09,Yadgir,2
+2017-10-16,Bagalkote,5
+2017-10-16,Ballari,67
+2017-10-16,Belagavi,0
+2017-10-16,Bengaluru Rural,2
+2017-10-16,Bengaluru Urban,226
+2017-10-16,Bidar,4
+2017-10-16,Chamarajanagara,1
+2017-10-16,Chikkaballapura,0
+2017-10-16,Chikkamagaluru,11
+2017-10-16,Chitradurga,17
+2017-10-16,Dakshina Kannada,0
+2017-10-16,Davangere,27
+2017-10-16,Dharwad,0
+2017-10-16,Gadag,0
+2017-10-16,Hassan,9
+2017-10-16,Haveri,9
+2017-10-16,Kalaburagi,0
+2017-10-16,Kodagu,0
+2017-10-16,Kolar,0
+2017-10-16,Koppal,0
+2017-10-16,Mandya,13
+2017-10-16,Mysuru,37
+2017-10-16,Raichur,0
+2017-10-16,Ramanagara,1
+2017-10-16,Shivamogga,0
+2017-10-16,Tumakuru,0
+2017-10-16,Udupi,0
+2017-10-16,Uttara Kannada,0
+2017-10-16,Vijayapura,5
+2017-10-16,Yadgir,4
+2017-10-23,Bagalkote,6
+2017-10-23,Ballari,128
+2017-10-23,Belagavi,1
+2017-10-23,Bengaluru Rural,2
+2017-10-23,Bengaluru Urban,1370
+2017-10-23,Bidar,23
+2017-10-23,Chamarajanagara,16
+2017-10-23,Chikkaballapura,10
+2017-10-23,Chikkamagaluru,21
+2017-10-23,Chitradurga,83
+2017-10-23,Dakshina Kannada,48
+2017-10-23,Davangere,53
+2017-10-23,Dharwad,190
+2017-10-23,Gadag,31
+2017-10-23,Hassan,9
+2017-10-23,Haveri,48
+2017-10-23,Kalaburagi,172
+2017-10-23,Kodagu,15
+2017-10-23,Kolar,7
+2017-10-23,Koppal,65
+2017-10-23,Mandya,46
+2017-10-23,Mysuru,44
+2017-10-23,Raichur,48
+2017-10-23,Ramanagara,6
+2017-10-23,Shivamogga,33
+2017-10-23,Tumakuru,13
+2017-10-23,Udupi,41
+2017-10-23,Uttara Kannada,28
+2017-10-23,Vijayapura,89
+2017-10-23,Yadgir,6
+2017-10-30,Bagalkote,18
+2017-10-30,Ballari,43
+2017-10-30,Belagavi,6
+2017-10-30,Bengaluru Rural,0
+2017-10-30,Bengaluru Urban,210
+2017-10-30,Bidar,28
+2017-10-30,Chamarajanagara,3
+2017-10-30,Chikkaballapura,18
+2017-10-30,Chikkamagaluru,11
+2017-10-30,Chitradurga,17
+2017-10-30,Dakshina Kannada,0
+2017-10-30,Davangere,29
+2017-10-30,Dharwad,0
+2017-10-30,Gadag,5
+2017-10-30,Hassan,20
+2017-10-30,Haveri,3
+2017-10-30,Kalaburagi,55
+2017-10-30,Kodagu,4
+2017-10-30,Kolar,0
+2017-10-30,Koppal,22
+2017-10-30,Mandya,0
+2017-10-30,Mysuru,19
+2017-10-30,Raichur,5
+2017-10-30,Ramanagara,0
+2017-10-30,Shivamogga,19
+2017-10-30,Tumakuru,2
+2017-10-30,Udupi,8
+2017-10-30,Uttara Kannada,5
+2017-10-30,Vijayapura,4
+2017-10-30,Yadgir,4
+2017-11-06,Bagalkote,0
+2017-11-06,Ballari,0
+2017-11-06,Belagavi,2
+2017-11-06,Bengaluru Rural,0
+2017-11-06,Bengaluru Urban,0
+2017-11-06,Bidar,0
+2017-11-06,Chamarajanagara,0
+2017-11-06,Chikkaballapura,0
+2017-11-06,Chikkamagaluru,1
+2017-11-06,Chitradurga,20
+2017-11-06,Dakshina Kannada,4
+2017-11-06,Davangere,0
+2017-11-06,Dharwad,0
+2017-11-06,Gadag,0
+2017-11-06,Hassan,1
+2017-11-06,Haveri,15
+2017-11-06,Kalaburagi,3
+2017-11-06,Kodagu,1
+2017-11-06,Kolar,0
+2017-11-06,Koppal,6
+2017-11-06,Mandya,0
+2017-11-06,Mysuru,0
+2017-11-06,Raichur,0
+2017-11-06,Ramanagara,2
+2017-11-06,Shivamogga,0
+2017-11-06,Tumakuru,0
+2017-11-06,Udupi,0
+2017-11-06,Uttara Kannada,0
+2017-11-06,Vijayapura,0
+2017-11-06,Yadgir,0
+2017-11-13,Bagalkote,6
+2017-11-13,Ballari,43
+2017-11-13,Belagavi,7
+2017-11-13,Bengaluru Rural,0
+2017-11-13,Bengaluru Urban,275
+2017-11-13,Bidar,50
+2017-11-13,Chamarajanagara,6
+2017-11-13,Chikkaballapura,0
+2017-11-13,Chikkamagaluru,6
+2017-11-13,Chitradurga,78
+2017-11-13,Dakshina Kannada,32
+2017-11-13,Davangere,48
+2017-11-13,Dharwad,43
+2017-11-13,Gadag,7
+2017-11-13,Hassan,25
+2017-11-13,Haveri,22
+2017-11-13,Kalaburagi,76
+2017-11-13,Kodagu,3
+2017-11-13,Kolar,0
+2017-11-13,Koppal,50
+2017-11-13,Mandya,30
+2017-11-13,Mysuru,9
+2017-11-13,Raichur,56
+2017-11-13,Ramanagara,2
+2017-11-13,Shivamogga,45
+2017-11-13,Tumakuru,0
+2017-11-13,Udupi,52
+2017-11-13,Uttara Kannada,0
+2017-11-13,Vijayapura,1
+2017-11-13,Yadgir,4
+2017-11-20,Bagalkote,0
+2017-11-20,Ballari,41
+2017-11-20,Belagavi,1
+2017-11-20,Bengaluru Rural,0
+2017-11-20,Bengaluru Urban,344
+2017-11-20,Bidar,26
+2017-11-20,Chamarajanagara,3
+2017-11-20,Chikkaballapura,0
+2017-11-20,Chikkamagaluru,5
+2017-11-20,Chitradurga,27
+2017-11-20,Dakshina Kannada,0
+2017-11-20,Davangere,18
+2017-11-20,Dharwad,0
+2017-11-20,Gadag,0
+2017-11-20,Hassan,1
+2017-11-20,Haveri,27
+2017-11-20,Kalaburagi,6
+2017-11-20,Kodagu,0
+2017-11-20,Kolar,2
+2017-11-20,Koppal,2
+2017-11-20,Mandya,7
+2017-11-20,Mysuru,13
+2017-11-20,Raichur,20
+2017-11-20,Ramanagara,1
+2017-11-20,Shivamogga,7
+2017-11-20,Tumakuru,6
+2017-11-20,Udupi,0
+2017-11-20,Uttara Kannada,0
+2017-11-20,Vijayapura,8
+2017-11-20,Yadgir,0
+2017-11-27,Bagalkote,4
+2017-11-27,Ballari,0
+2017-11-27,Belagavi,0
+2017-11-27,Bengaluru Rural,0
+2017-11-27,Bengaluru Urban,108
+2017-11-27,Bidar,14
+2017-11-27,Chamarajanagara,7
+2017-11-27,Chikkaballapura,14
+2017-11-27,Chikkamagaluru,8
+2017-11-27,Chitradurga,14
+2017-11-27,Dakshina Kannada,8
+2017-11-27,Davangere,5
+2017-11-27,Dharwad,25
+2017-11-27,Gadag,3
+2017-11-27,Hassan,0
+2017-11-27,Haveri,14
+2017-11-27,Kalaburagi,0
+2017-11-27,Kodagu,0
+2017-11-27,Kolar,0
+2017-11-27,Koppal,0
+2017-11-27,Mandya,2
+2017-11-27,Mysuru,0
+2017-11-27,Raichur,8
+2017-11-27,Ramanagara,1
+2017-11-27,Shivamogga,0
+2017-11-27,Tumakuru,0
+2017-11-27,Udupi,11
+2017-11-27,Uttara Kannada,0
+2017-11-27,Vijayapura,3
+2017-11-27,Yadgir,0
+2017-12-04,Bagalkote,7
+2017-12-04,Ballari,0
+2017-12-04,Belagavi,0
+2017-12-04,Bengaluru Rural,0
+2017-12-04,Bengaluru Urban,1
+2017-12-04,Bidar,10
+2017-12-04,Chamarajanagara,0
+2017-12-04,Chikkaballapura,1
+2017-12-04,Chikkamagaluru,0
+2017-12-04,Chitradurga,13
+2017-12-04,Dakshina Kannada,0
+2017-12-04,Davangere,6
+2017-12-04,Dharwad,0
+2017-12-04,Gadag,0
+2017-12-04,Hassan,16
+2017-12-04,Haveri,11
+2017-12-04,Kalaburagi,2
+2017-12-04,Kodagu,2
+2017-12-04,Kolar,0
+2017-12-04,Koppal,2
+2017-12-04,Mandya,4
+2017-12-04,Mysuru,4
+2017-12-04,Raichur,8
+2017-12-04,Ramanagara,0
+2017-12-04,Shivamogga,0
+2017-12-04,Tumakuru,0
+2017-12-04,Udupi,5
+2017-12-04,Uttara Kannada,0
+2017-12-04,Vijayapura,0
+2017-12-04,Yadgir,2
+2017-12-11,Bagalkote,0
+2017-12-11,Ballari,0
+2017-12-11,Belagavi,2
+2017-12-11,Bengaluru Rural,0
+2017-12-11,Bengaluru Urban,76
+2017-12-11,Bidar,8
+2017-12-11,Chamarajanagara,7
+2017-12-11,Chikkaballapura,4
+2017-12-11,Chikkamagaluru,1
+2017-12-11,Chitradurga,0
+2017-12-11,Dakshina Kannada,0
+2017-12-11,Davangere,21
+2017-12-11,Dharwad,0
+2017-12-11,Gadag,0
+2017-12-11,Hassan,0
+2017-12-11,Haveri,5
+2017-12-11,Kalaburagi,2
+2017-12-11,Kodagu,2
+2017-12-11,Kolar,0
+2017-12-11,Koppal,0
+2017-12-11,Mandya,0
+2017-12-11,Mysuru,0
+2017-12-11,Raichur,0
+2017-12-11,Ramanagara,0
+2017-12-11,Shivamogga,18
+2017-12-11,Tumakuru,3
+2017-12-11,Udupi,2
+2017-12-11,Uttara Kannada,0
+2017-12-11,Vijayapura,27
+2017-12-11,Yadgir,0
+2017-12-18,Bagalkote,7
+2017-12-18,Ballari,142
+2017-12-18,Belagavi,2
+2017-12-18,Bengaluru Rural,1
+2017-12-18,Bengaluru Urban,483
+2017-12-18,Bidar,21
+2017-12-18,Chamarajanagara,7
+2017-12-18,Chikkaballapura,5
+2017-12-18,Chikkamagaluru,12
+2017-12-18,Chitradurga,45
+2017-12-18,Dakshina Kannada,0
+2017-12-18,Davangere,38
+2017-12-18,Dharwad,0
+2017-12-18,Gadag,0
+2017-12-18,Hassan,64
+2017-12-18,Haveri,29
+2017-12-18,Kalaburagi,4
+2017-12-18,Kodagu,4
+2017-12-18,Kolar,0
+2017-12-18,Koppal,2
+2017-12-18,Mandya,8
+2017-12-18,Mysuru,13
+2017-12-18,Raichur,8
+2017-12-18,Ramanagara,0
+2017-12-18,Shivamogga,28
+2017-12-18,Tumakuru,3
+2017-12-18,Udupi,15
+2017-12-18,Uttara Kannada,0
+2017-12-18,Vijayapura,36
+2017-12-18,Yadgir,2
+2017-12-25,Bagalkote,5
+2017-12-25,Ballari,0
+2017-12-25,Belagavi,1
+2017-12-25,Bengaluru Rural,0
+2017-12-25,Bengaluru Urban,106
+2017-12-25,Bidar,0
+2017-12-25,Chamarajanagara,0
+2017-12-25,Chikkaballapura,1
+2017-12-25,Chikkamagaluru,4
+2017-12-25,Chitradurga,0
+2017-12-25,Dakshina Kannada,2
+2017-12-25,Davangere,10
+2017-12-25,Dharwad,29
+2017-12-25,Gadag,0
+2017-12-25,Hassan,21
+2017-12-25,Haveri,5
+2017-12-25,Kalaburagi,0
+2017-12-25,Kodagu,0
+2017-12-25,Kolar,0
+2017-12-25,Koppal,11
+2017-12-25,Mandya,0
+2017-12-25,Mysuru,0
+2017-12-25,Raichur,34
+2017-12-25,Ramanagara,0
+2017-12-25,Shivamogga,9
+2017-12-25,Tumakuru,0
+2017-12-25,Udupi,2
+2017-12-25,Uttara Kannada,0
+2017-12-25,Vijayapura,0
+2017-12-25,Yadgir,8
+2018-01-01,Bagalkote,0
+2018-01-01,Ballari,0
+2018-01-01,Belagavi,0
+2018-01-01,Bengaluru Rural,0
+2018-01-01,Bengaluru Urban,32
+2018-01-01,Bidar,0
+2018-01-01,Chamarajanagara,0
+2018-01-01,Chikkaballapura,1
+2018-01-01,Chikkamagaluru,2
+2018-01-01,Chitradurga,8
+2018-01-01,Dakshina Kannada,0
+2018-01-01,Davangere,0
+2018-01-01,Dharwad,0
+2018-01-01,Gadag,0
+2018-01-01,Hassan,6
+2018-01-01,Haveri,3
+2018-01-01,Kalaburagi,0
+2018-01-01,Kodagu,1
+2018-01-01,Kolar,1
+2018-01-01,Koppal,2
+2018-01-01,Mandya,5
+2018-01-01,Mysuru,4
+2018-01-01,Raichur,3
+2018-01-01,Ramanagara,0
+2018-01-01,Shivamogga,0
+2018-01-01,Tumakuru,0
+2018-01-01,Udupi,3
+2018-01-01,Uttara Kannada,0
+2018-01-01,Vijayapura,0
+2018-01-01,Yadgir,3
+2018-01-08,Bagalkote,0
+2018-01-08,Ballari,0
+2018-01-08,Belagavi,0
+2018-01-08,Bengaluru Rural,0
+2018-01-08,Bengaluru Urban,0
+2018-01-08,Bidar,1
+2018-01-08,Chamarajanagara,333
+2018-01-08,Chikkaballapura,0
+2018-01-08,Chikkamagaluru,1
+2018-01-08,Chitradurga,0
+2018-01-08,Dakshina Kannada,0
+2018-01-08,Davangere,5
+2018-01-08,Dharwad,0
+2018-01-08,Gadag,32
+2018-01-08,Hassan,0
+2018-01-08,Haveri,1
+2018-01-08,Kalaburagi,0
+2018-01-08,Kodagu,0
+2018-01-08,Kolar,0
+2018-01-08,Koppal,0
+2018-01-08,Mandya,0
+2018-01-08,Mysuru,0
+2018-01-08,Raichur,0
+2018-01-08,Ramanagara,0
+2018-01-08,Shivamogga,0
+2018-01-08,Tumakuru,0
+2018-01-08,Udupi,0
+2018-01-08,Uttara Kannada,26
+2018-01-08,Vijayapura,0
+2018-01-08,Yadgir,0
+2018-01-15,Bagalkote,0
+2018-01-15,Ballari,0
+2018-01-15,Belagavi,0
+2018-01-15,Bengaluru Rural,0
+2018-01-15,Bengaluru Urban,0
+2018-01-15,Bidar,0
+2018-01-15,Chamarajanagara,0
+2018-01-15,Chikkaballapura,2
+2018-01-15,Chikkamagaluru,0
+2018-01-15,Chitradurga,0
+2018-01-15,Dakshina Kannada,3
+2018-01-15,Davangere,0
+2018-01-15,Dharwad,0
+2018-01-15,Gadag,0
+2018-01-15,Hassan,0
+2018-01-15,Haveri,0
+2018-01-15,Kalaburagi,1
+2018-01-15,Kodagu,0
+2018-01-15,Kolar,0
+2018-01-15,Koppal,0
+2018-01-15,Mandya,0
+2018-01-15,Mysuru,0
+2018-01-15,Raichur,0
+2018-01-15,Ramanagara,0
+2018-01-15,Shivamogga,0
+2018-01-15,Tumakuru,0
+2018-01-15,Udupi,0
+2018-01-15,Uttara Kannada,0
+2018-01-15,Vijayapura,0
+2018-01-15,Yadgir,1
+2018-01-22,Bagalkote,1
+2018-01-22,Ballari,0
+2018-01-22,Belagavi,0
+2018-01-22,Bengaluru Rural,0
+2018-01-22,Bengaluru Urban,36
+2018-01-22,Bidar,0
+2018-01-22,Chamarajanagara,333
+2018-01-22,Chikkaballapura,0
+2018-01-22,Chikkamagaluru,0
+2018-01-22,Chitradurga,0
+2018-01-22,Dakshina Kannada,0
+2018-01-22,Davangere,0
+2018-01-22,Dharwad,0
+2018-01-22,Gadag,3
+2018-01-22,Hassan,0
+2018-01-22,Haveri,1
+2018-01-22,Kalaburagi,8
+2018-01-22,Kodagu,0
+2018-01-22,Kolar,0
+2018-01-22,Koppal,0
+2018-01-22,Mandya,0
+2018-01-22,Mysuru,0
+2018-01-22,Raichur,4
+2018-01-22,Ramanagara,0
+2018-01-22,Shivamogga,0
+2018-01-22,Tumakuru,0
+2018-01-22,Udupi,0
+2018-01-22,Uttara Kannada,26
+2018-01-22,Vijayapura,0
+2018-01-22,Yadgir,0
+2018-01-29,Bagalkote,6
+2018-01-29,Ballari,0
+2018-01-29,Belagavi,0
+2018-01-29,Bengaluru Rural,0
+2018-01-29,Bengaluru Urban,0
+2018-01-29,Bidar,0
+2018-01-29,Chamarajanagara,0
+2018-01-29,Chikkaballapura,0
+2018-01-29,Chikkamagaluru,0
+2018-01-29,Chitradurga,2
+2018-01-29,Dakshina Kannada,0
+2018-01-29,Davangere,17
+2018-01-29,Dharwad,0
+2018-01-29,Gadag,13
+2018-01-29,Hassan,19
+2018-01-29,Haveri,3
+2018-01-29,Kalaburagi,2
+2018-01-29,Kodagu,2
+2018-01-29,Kolar,0
+2018-01-29,Koppal,0
+2018-01-29,Mandya,0
+2018-01-29,Mysuru,0
+2018-01-29,Raichur,0
+2018-01-29,Ramanagara,0
+2018-01-29,Shivamogga,0
+2018-01-29,Tumakuru,3
+2018-01-29,Udupi,5
+2018-01-29,Uttara Kannada,0
+2018-01-29,Vijayapura,0
+2018-01-29,Yadgir,2
+2018-02-05,Bagalkote,0
+2018-02-05,Ballari,0
+2018-02-05,Belagavi,0
+2018-02-05,Bengaluru Rural,0
+2018-02-05,Bengaluru Urban,23
+2018-02-05,Bidar,0
+2018-02-05,Chamarajanagara,4
+2018-02-05,Chikkaballapura,0
+2018-02-05,Chikkamagaluru,0
+2018-02-05,Chitradurga,2
+2018-02-05,Dakshina Kannada,0
+2018-02-05,Davangere,0
+2018-02-05,Dharwad,0
+2018-02-05,Gadag,0
+2018-02-05,Hassan,0
+2018-02-05,Haveri,8
+2018-02-05,Kalaburagi,1
+2018-02-05,Kodagu,0
+2018-02-05,Kolar,0
+2018-02-05,Koppal,0
+2018-02-05,Mandya,0
+2018-02-05,Mysuru,2
+2018-02-05,Raichur,0
+2018-02-05,Ramanagara,1
+2018-02-05,Shivamogga,13
+2018-02-05,Tumakuru,0
+2018-02-05,Udupi,0
+2018-02-05,Uttara Kannada,0
+2018-02-05,Vijayapura,4
+2018-02-05,Yadgir,3
+2018-02-12,Bagalkote,0
+2018-02-12,Ballari,0
+2018-02-12,Belagavi,0
+2018-02-12,Bengaluru Rural,0
+2018-02-12,Bengaluru Urban,75
+2018-02-12,Bidar,0
+2018-02-12,Chamarajanagara,6
+2018-02-12,Chikkaballapura,0
+2018-02-12,Chikkamagaluru,0
+2018-02-12,Chitradurga,1
+2018-02-12,Dakshina Kannada,0
+2018-02-12,Davangere,4
+2018-02-12,Dharwad,17
+2018-02-12,Gadag,0
+2018-02-12,Hassan,0
+2018-02-12,Haveri,1
+2018-02-12,Kalaburagi,0
+2018-02-12,Kodagu,0
+2018-02-12,Kolar,0
+2018-02-12,Koppal,0
+2018-02-12,Mandya,0
+2018-02-12,Mysuru,0
+2018-02-12,Raichur,0
+2018-02-12,Ramanagara,0
+2018-02-12,Shivamogga,0
+2018-02-12,Tumakuru,3
+2018-02-12,Udupi,0
+2018-02-12,Uttara Kannada,1
+2018-02-12,Vijayapura,0
+2018-02-12,Yadgir,0
+2018-02-19,Bagalkote,0
+2018-02-19,Ballari,0
+2018-02-19,Belagavi,0
+2018-02-19,Bengaluru Rural,0
+2018-02-19,Bengaluru Urban,0
+2018-02-19,Bidar,0
+2018-02-19,Chamarajanagara,0
+2018-02-19,Chikkaballapura,0
+2018-02-19,Chikkamagaluru,0
+2018-02-19,Chitradurga,3
+2018-02-19,Dakshina Kannada,14
+2018-02-19,Davangere,2
+2018-02-19,Dharwad,0
+2018-02-19,Gadag,0
+2018-02-19,Hassan,0
+2018-02-19,Haveri,3
+2018-02-19,Kalaburagi,0
+2018-02-19,Kodagu,0
+2018-02-19,Kolar,0
+2018-02-19,Koppal,0
+2018-02-19,Mandya,0
+2018-02-19,Mysuru,3
+2018-02-19,Raichur,0
+2018-02-19,Ramanagara,0
+2018-02-19,Shivamogga,0
+2018-02-19,Tumakuru,1
+2018-02-19,Udupi,2
+2018-02-19,Uttara Kannada,0
+2018-02-19,Vijayapura,0
+2018-02-19,Yadgir,0
+2018-02-26,Bagalkote,0
+2018-02-26,Ballari,0
+2018-02-26,Belagavi,0
+2018-02-26,Bengaluru Rural,0
+2018-02-26,Bengaluru Urban,63
+2018-02-26,Bidar,0
+2018-02-26,Chamarajanagara,0
+2018-02-26,Chikkaballapura,0
+2018-02-26,Chikkamagaluru,0
+2018-02-26,Chitradurga,10
+2018-02-26,Dakshina Kannada,6
+2018-02-26,Davangere,0
+2018-02-26,Dharwad,0
+2018-02-26,Gadag,16
+2018-02-26,Hassan,1
+2018-02-26,Haveri,0
+2018-02-26,Kalaburagi,0
+2018-02-26,Kodagu,0
+2018-02-26,Kolar,0
+2018-02-26,Koppal,0
+2018-02-26,Mandya,0
+2018-02-26,Mysuru,0
+2018-02-26,Raichur,0
+2018-02-26,Ramanagara,0
+2018-02-26,Shivamogga,0
+2018-02-26,Tumakuru,4
+2018-02-26,Udupi,1
+2018-02-26,Uttara Kannada,1
+2018-02-26,Vijayapura,0
+2018-02-26,Yadgir,0
+2018-03-05,Bagalkote,0
+2018-03-05,Ballari,0
+2018-03-05,Belagavi,0
+2018-03-05,Bengaluru Rural,0
+2018-03-05,Bengaluru Urban,26
+2018-03-05,Bidar,0
+2018-03-05,Chamarajanagara,0
+2018-03-05,Chikkaballapura,0
+2018-03-05,Chikkamagaluru,0
+2018-03-05,Chitradurga,1
+2018-03-05,Dakshina Kannada,1
+2018-03-05,Davangere,0
+2018-03-05,Dharwad,0
+2018-03-05,Gadag,0
+2018-03-05,Hassan,0
+2018-03-05,Haveri,0
+2018-03-05,Kalaburagi,0
+2018-03-05,Kodagu,0
+2018-03-05,Kolar,0
+2018-03-05,Koppal,0
+2018-03-05,Mandya,0
+2018-03-05,Mysuru,0
+2018-03-05,Raichur,0
+2018-03-05,Ramanagara,0
+2018-03-05,Shivamogga,0
+2018-03-05,Tumakuru,0
+2018-03-05,Udupi,2
+2018-03-05,Uttara Kannada,2
+2018-03-05,Vijayapura,0
+2018-03-05,Yadgir,0
+2018-03-12,Bagalkote,0
+2018-03-12,Ballari,25
+2018-03-12,Belagavi,0
+2018-03-12,Bengaluru Rural,0
+2018-03-12,Bengaluru Urban,0
+2018-03-12,Bidar,0
+2018-03-12,Chamarajanagara,0
+2018-03-12,Chikkaballapura,0
+2018-03-12,Chikkamagaluru,0
+2018-03-12,Chitradurga,5
+2018-03-12,Dakshina Kannada,0
+2018-03-12,Davangere,4
+2018-03-12,Dharwad,0
+2018-03-12,Gadag,8
+2018-03-12,Hassan,0
+2018-03-12,Haveri,1
+2018-03-12,Kalaburagi,0
+2018-03-12,Kodagu,0
+2018-03-12,Kolar,0
+2018-03-12,Koppal,0
+2018-03-12,Mandya,2
+2018-03-12,Mysuru,0
+2018-03-12,Raichur,2
+2018-03-12,Ramanagara,0
+2018-03-12,Shivamogga,0
+2018-03-12,Tumakuru,0
+2018-03-12,Udupi,0
+2018-03-12,Uttara Kannada,1
+2018-03-12,Vijayapura,0
+2018-03-12,Yadgir,0
+2018-03-19,Bagalkote,0
+2018-03-19,Ballari,0
+2018-03-19,Belagavi,1
+2018-03-19,Bengaluru Rural,1
+2018-03-19,Bengaluru Urban,16
+2018-03-19,Bidar,0
+2018-03-19,Chamarajanagara,11
+2018-03-19,Chikkaballapura,0
+2018-03-19,Chikkamagaluru,0
+2018-03-19,Chitradurga,1
+2018-03-19,Dakshina Kannada,0
+2018-03-19,Davangere,2
+2018-03-19,Dharwad,1
+2018-03-19,Gadag,3
+2018-03-19,Hassan,5
+2018-03-19,Haveri,0
+2018-03-19,Kalaburagi,4
+2018-03-19,Kodagu,0
+2018-03-19,Kolar,0
+2018-03-19,Koppal,0
+2018-03-19,Mandya,2
+2018-03-19,Mysuru,0
+2018-03-19,Raichur,0
+2018-03-19,Ramanagara,0
+2018-03-19,Shivamogga,0
+2018-03-19,Tumakuru,0
+2018-03-19,Udupi,2
+2018-03-19,Uttara Kannada,0
+2018-03-19,Vijayapura,9
+2018-03-19,Yadgir,1
+2018-03-26,Bagalkote,0
+2018-03-26,Ballari,0
+2018-03-26,Belagavi,0
+2018-03-26,Bengaluru Rural,0
+2018-03-26,Bengaluru Urban,23
+2018-03-26,Bidar,0
+2018-03-26,Chamarajanagara,0
+2018-03-26,Chikkaballapura,0
+2018-03-26,Chikkamagaluru,0
+2018-03-26,Chitradurga,0
+2018-03-26,Dakshina Kannada,3
+2018-03-26,Davangere,1
+2018-03-26,Dharwad,0
+2018-03-26,Gadag,0
+2018-03-26,Hassan,0
+2018-03-26,Haveri,2
+2018-03-26,Kalaburagi,0
+2018-03-26,Kodagu,0
+2018-03-26,Kolar,0
+2018-03-26,Koppal,0
+2018-03-26,Mandya,1
+2018-03-26,Mysuru,3
+2018-03-26,Raichur,0
+2018-03-26,Ramanagara,0
+2018-03-26,Shivamogga,0
+2018-03-26,Tumakuru,6
+2018-03-26,Udupi,0
+2018-03-26,Uttara Kannada,0
+2018-03-26,Vijayapura,0
+2018-03-26,Yadgir,0
+2018-04-02,Bagalkote,0
+2018-04-02,Ballari,0
+2018-04-02,Belagavi,0
+2018-04-02,Bengaluru Rural,0
+2018-04-02,Bengaluru Urban,19
+2018-04-02,Bidar,0
+2018-04-02,Chamarajanagara,2
+2018-04-02,Chikkaballapura,0
+2018-04-02,Chikkamagaluru,1
+2018-04-02,Chitradurga,8
+2018-04-02,Dakshina Kannada,0
+2018-04-02,Davangere,2
+2018-04-02,Dharwad,5
+2018-04-02,Gadag,0
+2018-04-02,Hassan,0
+2018-04-02,Haveri,0
+2018-04-02,Kalaburagi,0
+2018-04-02,Kodagu,0
+2018-04-02,Kolar,0
+2018-04-02,Koppal,0
+2018-04-02,Mandya,1
+2018-04-02,Mysuru,0
+2018-04-02,Raichur,0
+2018-04-02,Ramanagara,0
+2018-04-02,Shivamogga,0
+2018-04-02,Tumakuru,0
+2018-04-02,Udupi,0
+2018-04-02,Uttara Kannada,0
+2018-04-02,Vijayapura,0
+2018-04-02,Yadgir,0
+2018-04-09,Bagalkote,0
+2018-04-09,Ballari,0
+2018-04-09,Belagavi,0
+2018-04-09,Bengaluru Rural,0
+2018-04-09,Bengaluru Urban,0
+2018-04-09,Bidar,0
+2018-04-09,Chamarajanagara,5
+2018-04-09,Chikkaballapura,0
+2018-04-09,Chikkamagaluru,0
+2018-04-09,Chitradurga,4
+2018-04-09,Dakshina Kannada,4
+2018-04-09,Davangere,1
+2018-04-09,Dharwad,0
+2018-04-09,Gadag,0
+2018-04-09,Hassan,12
+2018-04-09,Haveri,1
+2018-04-09,Kalaburagi,6
+2018-04-09,Kodagu,1
+2018-04-09,Kolar,0
+2018-04-09,Koppal,0
+2018-04-09,Mandya,0
+2018-04-09,Mysuru,2
+2018-04-09,Raichur,0
+2018-04-09,Ramanagara,0
+2018-04-09,Shivamogga,0
+2018-04-09,Tumakuru,0
+2018-04-09,Udupi,0
+2018-04-09,Uttara Kannada,2
+2018-04-09,Vijayapura,0
+2018-04-09,Yadgir,2
+2018-04-16,Bagalkote,0
+2018-04-16,Ballari,0
+2018-04-16,Belagavi,0
+2018-04-16,Bengaluru Rural,0
+2018-04-16,Bengaluru Urban,0
+2018-04-16,Bidar,0
+2018-04-16,Chamarajanagara,0
+2018-04-16,Chikkaballapura,0
+2018-04-16,Chikkamagaluru,1
+2018-04-16,Chitradurga,2
+2018-04-16,Dakshina Kannada,1
+2018-04-16,Davangere,0
+2018-04-16,Dharwad,0
+2018-04-16,Gadag,0
+2018-04-16,Hassan,0
+2018-04-16,Haveri,3
+2018-04-16,Kalaburagi,0
+2018-04-16,Kodagu,0
+2018-04-16,Kolar,0
+2018-04-16,Koppal,0
+2018-04-16,Mandya,0
+2018-04-16,Mysuru,0
+2018-04-16,Raichur,0
+2018-04-16,Ramanagara,0
+2018-04-16,Shivamogga,0
+2018-04-16,Tumakuru,0
+2018-04-16,Udupi,0
+2018-04-16,Uttara Kannada,1
+2018-04-16,Vijayapura,0
+2018-04-16,Yadgir,0
+2018-04-23,Bagalkote,0
+2018-04-23,Ballari,0
+2018-04-23,Belagavi,0
+2018-04-23,Bengaluru Rural,0
+2018-04-23,Bengaluru Urban,0
+2018-04-23,Bidar,0
+2018-04-23,Chamarajanagara,7
+2018-04-23,Chikkaballapura,0
+2018-04-23,Chikkamagaluru,0
+2018-04-23,Chitradurga,0
+2018-04-23,Dakshina Kannada,0
+2018-04-23,Davangere,7
+2018-04-23,Dharwad,0
+2018-04-23,Gadag,10
+2018-04-23,Hassan,0
+2018-04-23,Haveri,0
+2018-04-23,Kalaburagi,13
+2018-04-23,Kodagu,0
+2018-04-23,Kolar,0
+2018-04-23,Koppal,0
+2018-04-23,Mandya,0
+2018-04-23,Mysuru,0
+2018-04-23,Raichur,0
+2018-04-23,Ramanagara,1
+2018-04-23,Shivamogga,0
+2018-04-23,Tumakuru,3
+2018-04-23,Udupi,0
+2018-04-23,Uttara Kannada,0
+2018-04-23,Vijayapura,0
+2018-04-23,Yadgir,5
+2018-04-30,Bagalkote,0
+2018-04-30,Ballari,0
+2018-04-30,Belagavi,0
+2018-04-30,Bengaluru Rural,0
+2018-04-30,Bengaluru Urban,1
+2018-04-30,Bidar,1
+2018-04-30,Chamarajanagara,0
+2018-04-30,Chikkaballapura,0
+2018-04-30,Chikkamagaluru,1
+2018-04-30,Chitradurga,2
+2018-04-30,Dakshina Kannada,4
+2018-04-30,Davangere,0
+2018-04-30,Dharwad,0
+2018-04-30,Gadag,0
+2018-04-30,Hassan,8
+2018-04-30,Haveri,3
+2018-04-30,Kalaburagi,0
+2018-04-30,Kodagu,0
+2018-04-30,Kolar,2
+2018-04-30,Koppal,16
+2018-04-30,Mandya,0
+2018-04-30,Mysuru,0
+2018-04-30,Raichur,0
+2018-04-30,Ramanagara,0
+2018-04-30,Shivamogga,0
+2018-04-30,Tumakuru,0
+2018-04-30,Udupi,2
+2018-04-30,Uttara Kannada,2
+2018-04-30,Vijayapura,4
+2018-04-30,Yadgir,0
+2018-05-07,Bagalkote,0
+2018-05-07,Ballari,0
+2018-05-07,Belagavi,0
+2018-05-07,Bengaluru Rural,0
+2018-05-07,Bengaluru Urban,3
+2018-05-07,Bidar,0
+2018-05-07,Chamarajanagara,0
+2018-05-07,Chikkaballapura,0
+2018-05-07,Chikkamagaluru,0
+2018-05-07,Chitradurga,0
+2018-05-07,Dakshina Kannada,0
+2018-05-07,Davangere,0
+2018-05-07,Dharwad,5
+2018-05-07,Gadag,0
+2018-05-07,Hassan,0
+2018-05-07,Haveri,1
+2018-05-07,Kalaburagi,0
+2018-05-07,Kodagu,1
+2018-05-07,Kolar,0
+2018-05-07,Koppal,0
+2018-05-07,Mandya,0
+2018-05-07,Mysuru,0
+2018-05-07,Raichur,0
+2018-05-07,Ramanagara,0
+2018-05-07,Shivamogga,0
+2018-05-07,Tumakuru,1
+2018-05-07,Udupi,5
+2018-05-07,Uttara Kannada,0
+2018-05-07,Vijayapura,0
+2018-05-07,Yadgir,0
+2018-05-14,Bagalkote,0
+2018-05-14,Ballari,0
+2018-05-14,Belagavi,0
+2018-05-14,Bengaluru Rural,0
+2018-05-14,Bengaluru Urban,0
+2018-05-14,Bidar,0
+2018-05-14,Chamarajanagara,0
+2018-05-14,Chikkaballapura,0
+2018-05-14,Chikkamagaluru,2
+2018-05-14,Chitradurga,0
+2018-05-14,Dakshina Kannada,0
+2018-05-14,Davangere,1
+2018-05-14,Dharwad,7
+2018-05-14,Gadag,0
+2018-05-14,Hassan,0
+2018-05-14,Haveri,1
+2018-05-14,Kalaburagi,0
+2018-05-14,Kodagu,2
+2018-05-14,Kolar,0
+2018-05-14,Koppal,0
+2018-05-14,Mandya,0
+2018-05-14,Mysuru,0
+2018-05-14,Raichur,0
+2018-05-14,Ramanagara,0
+2018-05-14,Shivamogga,38
+2018-05-14,Tumakuru,0
+2018-05-14,Udupi,7
+2018-05-14,Uttara Kannada,0
+2018-05-14,Vijayapura,0
+2018-05-14,Yadgir,4
+2018-05-21,Bagalkote,0
+2018-05-21,Ballari,30
+2018-05-21,Belagavi,6
+2018-05-21,Bengaluru Rural,0
+2018-05-21,Bengaluru Urban,4
+2018-05-21,Bidar,1
+2018-05-21,Chamarajanagara,3
+2018-05-21,Chikkaballapura,0
+2018-05-21,Chikkamagaluru,3
+2018-05-21,Chitradurga,0
+2018-05-21,Dakshina Kannada,18
+2018-05-21,Davangere,1
+2018-05-21,Dharwad,12
+2018-05-21,Gadag,0
+2018-05-21,Hassan,8
+2018-05-21,Haveri,13
+2018-05-21,Kalaburagi,12
+2018-05-21,Kodagu,3
+2018-05-21,Kolar,2
+2018-05-21,Koppal,16
+2018-05-21,Mandya,0
+2018-05-21,Mysuru,0
+2018-05-21,Raichur,0
+2018-05-21,Ramanagara,0
+2018-05-21,Shivamogga,54
+2018-05-21,Tumakuru,1
+2018-05-21,Udupi,16
+2018-05-21,Uttara Kannada,8
+2018-05-21,Vijayapura,0
+2018-05-21,Yadgir,4
+2018-05-28,Bagalkote,0
+2018-05-28,Ballari,0
+2018-05-28,Belagavi,3
+2018-05-28,Bengaluru Rural,0
+2018-05-28,Bengaluru Urban,0
+2018-05-28,Bidar,6
+2018-05-28,Chamarajanagara,0
+2018-05-28,Chikkaballapura,0
+2018-05-28,Chikkamagaluru,1
+2018-05-28,Chitradurga,0
+2018-05-28,Dakshina Kannada,39
+2018-05-28,Davangere,1
+2018-05-28,Dharwad,0
+2018-05-28,Gadag,3
+2018-05-28,Hassan,0
+2018-05-28,Haveri,3
+2018-05-28,Kalaburagi,0
+2018-05-28,Kodagu,2
+2018-05-28,Kolar,0
+2018-05-28,Koppal,0
+2018-05-28,Mandya,1
+2018-05-28,Mysuru,2
+2018-05-28,Raichur,0
+2018-05-28,Ramanagara,0
+2018-05-28,Shivamogga,9
+2018-05-28,Tumakuru,1
+2018-05-28,Udupi,1
+2018-05-28,Uttara Kannada,0
+2018-05-28,Vijayapura,0
+2018-05-28,Yadgir,0
+2018-06-04,Bagalkote,0
+2018-06-04,Ballari,0
+2018-06-04,Belagavi,0
+2018-06-04,Bengaluru Rural,0
+2018-06-04,Bengaluru Urban,0
+2018-06-04,Bidar,0
+2018-06-04,Chamarajanagara,0
+2018-06-04,Chikkaballapura,0
+2018-06-04,Chikkamagaluru,3
+2018-06-04,Chitradurga,1
+2018-06-04,Dakshina Kannada,0
+2018-06-04,Davangere,0
+2018-06-04,Dharwad,0
+2018-06-04,Gadag,0
+2018-06-04,Hassan,18
+2018-06-04,Haveri,0
+2018-06-04,Kalaburagi,0
+2018-06-04,Kodagu,0
+2018-06-04,Kolar,0
+2018-06-04,Koppal,0
+2018-06-04,Mandya,0
+2018-06-04,Mysuru,0
+2018-06-04,Raichur,0
+2018-06-04,Ramanagara,0
+2018-06-04,Shivamogga,5
+2018-06-04,Tumakuru,0
+2018-06-04,Udupi,7
+2018-06-04,Uttara Kannada,5
+2018-06-04,Vijayapura,0
+2018-06-04,Yadgir,0
+2018-06-11,Bagalkote,0
+2018-06-11,Ballari,2
+2018-06-11,Belagavi,0
+2018-06-11,Bengaluru Rural,2
+2018-06-11,Bengaluru Urban,0
+2018-06-11,Bidar,2
+2018-06-11,Chamarajanagara,0
+2018-06-11,Chikkaballapura,0
+2018-06-11,Chikkamagaluru,0
+2018-06-11,Chitradurga,4
+2018-06-11,Dakshina Kannada,0
+2018-06-11,Davangere,7
+2018-06-11,Dharwad,2
+2018-06-11,Gadag,3
+2018-06-11,Hassan,0
+2018-06-11,Haveri,13
+2018-06-11,Kalaburagi,0
+2018-06-11,Kodagu,2
+2018-06-11,Kolar,0
+2018-06-11,Koppal,0
+2018-06-11,Mandya,0
+2018-06-11,Mysuru,1
+2018-06-11,Raichur,0
+2018-06-11,Ramanagara,0
+2018-06-11,Shivamogga,8
+2018-06-11,Tumakuru,0
+2018-06-11,Udupi,8
+2018-06-11,Uttara Kannada,6
+2018-06-11,Vijayapura,0
+2018-06-11,Yadgir,1
+2018-06-18,Bagalkote,0
+2018-06-18,Ballari,0
+2018-06-18,Belagavi,12
+2018-06-18,Bengaluru Rural,0
+2018-06-18,Bengaluru Urban,0
+2018-06-18,Bidar,0
+2018-06-18,Chamarajanagara,0
+2018-06-18,Chikkaballapura,2
+2018-06-18,Chikkamagaluru,4
+2018-06-18,Chitradurga,0
+2018-06-18,Dakshina Kannada,0
+2018-06-18,Davangere,4
+2018-06-18,Dharwad,0
+2018-06-18,Gadag,0
+2018-06-18,Hassan,0
+2018-06-18,Haveri,2
+2018-06-18,Kalaburagi,0
+2018-06-18,Kodagu,0
+2018-06-18,Kolar,0
+2018-06-18,Koppal,2
+2018-06-18,Mandya,1
+2018-06-18,Mysuru,1
+2018-06-18,Raichur,0
+2018-06-18,Ramanagara,0
+2018-06-18,Shivamogga,0
+2018-06-18,Tumakuru,1
+2018-06-18,Udupi,19
+2018-06-18,Uttara Kannada,9
+2018-06-18,Vijayapura,0
+2018-06-18,Yadgir,2
+2018-06-25,Bagalkote,0
+2018-06-25,Ballari,3
+2018-06-25,Belagavi,0
+2018-06-25,Bengaluru Rural,0
+2018-06-25,Bengaluru Urban,0
+2018-06-25,Bidar,0
+2018-06-25,Chamarajanagara,0
+2018-06-25,Chikkaballapura,0
+2018-06-25,Chikkamagaluru,6
+2018-06-25,Chitradurga,0
+2018-06-25,Dakshina Kannada,61
+2018-06-25,Davangere,6
+2018-06-25,Dharwad,0
+2018-06-25,Gadag,0
+2018-06-25,Hassan,43
+2018-06-25,Haveri,6
+2018-06-25,Kalaburagi,0
+2018-06-25,Kodagu,3
+2018-06-25,Kolar,0
+2018-06-25,Koppal,0
+2018-06-25,Mandya,0
+2018-06-25,Mysuru,2
+2018-06-25,Raichur,0
+2018-06-25,Ramanagara,0
+2018-06-25,Shivamogga,30
+2018-06-25,Tumakuru,3
+2018-06-25,Udupi,20
+2018-06-25,Uttara Kannada,0
+2018-06-25,Vijayapura,18
+2018-06-25,Yadgir,0
+2018-07-02,Bagalkote,0
+2018-07-02,Ballari,0
+2018-07-02,Belagavi,5
+2018-07-02,Bengaluru Rural,0
+2018-07-02,Bengaluru Urban,0
+2018-07-02,Bidar,0
+2018-07-02,Chamarajanagara,0
+2018-07-02,Chikkaballapura,0
+2018-07-02,Chikkamagaluru,14
+2018-07-02,Chitradurga,0
+2018-07-02,Dakshina Kannada,181
+2018-07-02,Davangere,0
+2018-07-02,Dharwad,7
+2018-07-02,Gadag,0
+2018-07-02,Hassan,14
+2018-07-02,Haveri,19
+2018-07-02,Kalaburagi,0
+2018-07-02,Kodagu,3
+2018-07-02,Kolar,0
+2018-07-02,Koppal,1
+2018-07-02,Mandya,0
+2018-07-02,Mysuru,0
+2018-07-02,Raichur,0
+2018-07-02,Ramanagara,1
+2018-07-02,Shivamogga,0
+2018-07-02,Tumakuru,1
+2018-07-02,Udupi,15
+2018-07-02,Uttara Kannada,8
+2018-07-02,Vijayapura,0
+2018-07-02,Yadgir,0
+2018-07-09,Bagalkote,0
+2018-07-09,Ballari,0
+2018-07-09,Belagavi,0
+2018-07-09,Bengaluru Rural,0
+2018-07-09,Bengaluru Urban,0
+2018-07-09,Bidar,0
+2018-07-09,Chamarajanagara,24
+2018-07-09,Chikkaballapura,0
+2018-07-09,Chikkamagaluru,1
+2018-07-09,Chitradurga,8
+2018-07-09,Dakshina Kannada,35
+2018-07-09,Davangere,5
+2018-07-09,Dharwad,0
+2018-07-09,Gadag,0
+2018-07-09,Hassan,9
+2018-07-09,Haveri,1
+2018-07-09,Kalaburagi,0
+2018-07-09,Kodagu,3
+2018-07-09,Kolar,0
+2018-07-09,Koppal,0
+2018-07-09,Mandya,0
+2018-07-09,Mysuru,1
+2018-07-09,Raichur,0
+2018-07-09,Ramanagara,0
+2018-07-09,Shivamogga,0
+2018-07-09,Tumakuru,1
+2018-07-09,Udupi,18
+2018-07-09,Uttara Kannada,0
+2018-07-09,Vijayapura,0
+2018-07-09,Yadgir,0
+2018-07-16,Bagalkote,0
+2018-07-16,Ballari,2
+2018-07-16,Belagavi,6
+2018-07-16,Bengaluru Rural,0
+2018-07-16,Bengaluru Urban,0
+2018-07-16,Bidar,0
+2018-07-16,Chamarajanagara,4
+2018-07-16,Chikkaballapura,0
+2018-07-16,Chikkamagaluru,0
+2018-07-16,Chitradurga,0
+2018-07-16,Dakshina Kannada,19
+2018-07-16,Davangere,3
+2018-07-16,Dharwad,22
+2018-07-16,Gadag,0
+2018-07-16,Hassan,0
+2018-07-16,Haveri,14
+2018-07-16,Kalaburagi,0
+2018-07-16,Kodagu,0
+2018-07-16,Kolar,0
+2018-07-16,Koppal,0
+2018-07-16,Mandya,0
+2018-07-16,Mysuru,0
+2018-07-16,Raichur,0
+2018-07-16,Ramanagara,0
+2018-07-16,Shivamogga,24
+2018-07-16,Tumakuru,0
+2018-07-16,Udupi,8
+2018-07-16,Uttara Kannada,0
+2018-07-16,Vijayapura,5
+2018-07-16,Yadgir,0
+2018-07-23,Bagalkote,7
+2018-07-23,Ballari,0
+2018-07-23,Belagavi,0
+2018-07-23,Bengaluru Rural,0
+2018-07-23,Bengaluru Urban,11
+2018-07-23,Bidar,0
+2018-07-23,Chamarajanagara,3
+2018-07-23,Chikkaballapura,0
+2018-07-23,Chikkamagaluru,19
+2018-07-23,Chitradurga,0
+2018-07-23,Dakshina Kannada,0
+2018-07-23,Davangere,6
+2018-07-23,Dharwad,0
+2018-07-23,Gadag,11
+2018-07-23,Hassan,0
+2018-07-23,Haveri,7
+2018-07-23,Kalaburagi,0
+2018-07-23,Kodagu,3
+2018-07-23,Kolar,0
+2018-07-23,Koppal,2
+2018-07-23,Mandya,0
+2018-07-23,Mysuru,5
+2018-07-23,Raichur,0
+2018-07-23,Ramanagara,1
+2018-07-23,Shivamogga,10
+2018-07-23,Tumakuru,0
+2018-07-23,Udupi,8
+2018-07-23,Uttara Kannada,14
+2018-07-23,Vijayapura,0
+2018-07-23,Yadgir,0
+2018-07-30,Bagalkote,0
+2018-07-30,Ballari,0
+2018-07-30,Belagavi,0
+2018-07-30,Bengaluru Rural,0
+2018-07-30,Bengaluru Urban,1
+2018-07-30,Bidar,0
+2018-07-30,Chamarajanagara,2
+2018-07-30,Chikkaballapura,0
+2018-07-30,Chikkamagaluru,1
+2018-07-30,Chitradurga,7
+2018-07-30,Dakshina Kannada,48
+2018-07-30,Davangere,3
+2018-07-30,Dharwad,5
+2018-07-30,Gadag,0
+2018-07-30,Hassan,0
+2018-07-30,Haveri,2
+2018-07-30,Kalaburagi,0
+2018-07-30,Kodagu,0
+2018-07-30,Kolar,0
+2018-07-30,Koppal,1
+2018-07-30,Mandya,0
+2018-07-30,Mysuru,2
+2018-07-30,Raichur,0
+2018-07-30,Ramanagara,0
+2018-07-30,Shivamogga,3
+2018-07-30,Tumakuru,1
+2018-07-30,Udupi,10
+2018-07-30,Uttara Kannada,0
+2018-07-30,Vijayapura,0
+2018-07-30,Yadgir,3
+2018-08-06,Bagalkote,0
+2018-08-06,Ballari,0
+2018-08-06,Belagavi,0
+2018-08-06,Bengaluru Rural,0
+2018-08-06,Bengaluru Urban,0
+2018-08-06,Bidar,0
+2018-08-06,Chamarajanagara,0
+2018-08-06,Chikkaballapura,0
+2018-08-06,Chikkamagaluru,7
+2018-08-06,Chitradurga,0
+2018-08-06,Dakshina Kannada,14
+2018-08-06,Davangere,0
+2018-08-06,Dharwad,0
+2018-08-06,Gadag,0
+2018-08-06,Hassan,23
+2018-08-06,Haveri,10
+2018-08-06,Kalaburagi,31
+2018-08-06,Kodagu,0
+2018-08-06,Kolar,0
+2018-08-06,Koppal,0
+2018-08-06,Mandya,0
+2018-08-06,Mysuru,0
+2018-08-06,Raichur,0
+2018-08-06,Ramanagara,0
+2018-08-06,Shivamogga,10
+2018-08-06,Tumakuru,0
+2018-08-06,Udupi,6
+2018-08-06,Uttara Kannada,4
+2018-08-06,Vijayapura,0
+2018-08-06,Yadgir,8
+2018-08-13,Bagalkote,3
+2018-08-13,Ballari,0
+2018-08-13,Belagavi,11
+2018-08-13,Bengaluru Rural,0
+2018-08-13,Bengaluru Urban,0
+2018-08-13,Bidar,8
+2018-08-13,Chamarajanagara,0
+2018-08-13,Chikkaballapura,0
+2018-08-13,Chikkamagaluru,0
+2018-08-13,Chitradurga,5
+2018-08-13,Dakshina Kannada,0
+2018-08-13,Davangere,0
+2018-08-13,Dharwad,0
+2018-08-13,Gadag,0
+2018-08-13,Hassan,0
+2018-08-13,Haveri,5
+2018-08-13,Kalaburagi,0
+2018-08-13,Kodagu,0
+2018-08-13,Kolar,0
+2018-08-13,Koppal,0
+2018-08-13,Mandya,0
+2018-08-13,Mysuru,0
+2018-08-13,Raichur,0
+2018-08-13,Ramanagara,0
+2018-08-13,Shivamogga,0
+2018-08-13,Tumakuru,1
+2018-08-13,Udupi,0
+2018-08-13,Uttara Kannada,0
+2018-08-13,Vijayapura,0
+2018-08-13,Yadgir,0
+2018-08-20,Bagalkote,0
+2018-08-20,Ballari,0
+2018-08-20,Belagavi,2
+2018-08-20,Bengaluru Rural,0
+2018-08-20,Bengaluru Urban,2
+2018-08-20,Bidar,0
+2018-08-20,Chamarajanagara,0
+2018-08-20,Chikkaballapura,0
+2018-08-20,Chikkamagaluru,0
+2018-08-20,Chitradurga,2
+2018-08-20,Dakshina Kannada,0
+2018-08-20,Davangere,16
+2018-08-20,Dharwad,0
+2018-08-20,Gadag,0
+2018-08-20,Hassan,0
+2018-08-20,Haveri,7
+2018-08-20,Kalaburagi,0
+2018-08-20,Kodagu,0
+2018-08-20,Kolar,0
+2018-08-20,Koppal,1
+2018-08-20,Mandya,0
+2018-08-20,Mysuru,5
+2018-08-20,Raichur,0
+2018-08-20,Ramanagara,0
+2018-08-20,Shivamogga,17
+2018-08-20,Tumakuru,0
+2018-08-20,Udupi,10
+2018-08-20,Uttara Kannada,0
+2018-08-20,Vijayapura,0
+2018-08-20,Yadgir,0
+2018-08-27,Bagalkote,0
+2018-08-27,Ballari,10
+2018-08-27,Belagavi,3
+2018-08-27,Bengaluru Rural,0
+2018-08-27,Bengaluru Urban,0
+2018-08-27,Bidar,0
+2018-08-27,Chamarajanagara,0
+2018-08-27,Chikkaballapura,0
+2018-08-27,Chikkamagaluru,3
+2018-08-27,Chitradurga,2
+2018-08-27,Dakshina Kannada,28
+2018-08-27,Davangere,0
+2018-08-27,Dharwad,0
+2018-08-27,Gadag,12
+2018-08-27,Hassan,0
+2018-08-27,Haveri,10
+2018-08-27,Kalaburagi,0
+2018-08-27,Kodagu,2
+2018-08-27,Kolar,0
+2018-08-27,Koppal,0
+2018-08-27,Mandya,0
+2018-08-27,Mysuru,1
+2018-08-27,Raichur,0
+2018-08-27,Ramanagara,3
+2018-08-27,Shivamogga,5
+2018-08-27,Tumakuru,0
+2018-08-27,Udupi,9
+2018-08-27,Uttara Kannada,0
+2018-08-27,Vijayapura,0
+2018-08-27,Yadgir,1
+2018-09-03,Bagalkote,0
+2018-09-03,Ballari,0
+2018-09-03,Belagavi,0
+2018-09-03,Bengaluru Rural,0
+2018-09-03,Bengaluru Urban,0
+2018-09-03,Bidar,0
+2018-09-03,Chamarajanagara,0
+2018-09-03,Chikkaballapura,0
+2018-09-03,Chikkamagaluru,0
+2018-09-03,Chitradurga,1
+2018-09-03,Dakshina Kannada,2
+2018-09-03,Davangere,4
+2018-09-03,Dharwad,10
+2018-09-03,Gadag,0
+2018-09-03,Hassan,0
+2018-09-03,Haveri,6
+2018-09-03,Kalaburagi,37
+2018-09-03,Kodagu,0
+2018-09-03,Kolar,0
+2018-09-03,Koppal,0
+2018-09-03,Mandya,0
+2018-09-03,Mysuru,0
+2018-09-03,Raichur,0
+2018-09-03,Ramanagara,1
+2018-09-03,Shivamogga,0
+2018-09-03,Tumakuru,0
+2018-09-03,Udupi,3
+2018-09-03,Uttara Kannada,0
+2018-09-03,Vijayapura,0
+2018-09-03,Yadgir,0
+2018-09-10,Bagalkote,0
+2018-09-10,Ballari,0
+2018-09-10,Belagavi,0
+2018-09-10,Bengaluru Rural,0
+2018-09-10,Bengaluru Urban,0
+2018-09-10,Bidar,0
+2018-09-10,Chamarajanagara,0
+2018-09-10,Chikkaballapura,0
+2018-09-10,Chikkamagaluru,1
+2018-09-10,Chitradurga,0
+2018-09-10,Dakshina Kannada,0
+2018-09-10,Davangere,2
+2018-09-10,Dharwad,0
+2018-09-10,Gadag,0
+2018-09-10,Hassan,65
+2018-09-10,Haveri,0
+2018-09-10,Kalaburagi,0
+2018-09-10,Kodagu,0
+2018-09-10,Kolar,0
+2018-09-10,Koppal,1
+2018-09-10,Mandya,0
+2018-09-10,Mysuru,0
+2018-09-10,Raichur,0
+2018-09-10,Ramanagara,0
+2018-09-10,Shivamogga,3
+2018-09-10,Tumakuru,0
+2018-09-10,Udupi,4
+2018-09-10,Uttara Kannada,12
+2018-09-10,Vijayapura,0
+2018-09-10,Yadgir,0
+2018-09-17,Bagalkote,0
+2018-09-17,Ballari,0
+2018-09-17,Belagavi,0
+2018-09-17,Bengaluru Rural,0
+2018-09-17,Bengaluru Urban,0
+2018-09-17,Bidar,0
+2018-09-17,Chamarajanagara,5
+2018-09-17,Chikkaballapura,0
+2018-09-17,Chikkamagaluru,0
+2018-09-17,Chitradurga,1
+2018-09-17,Dakshina Kannada,0
+2018-09-17,Davangere,0
+2018-09-17,Dharwad,0
+2018-09-17,Gadag,8
+2018-09-17,Hassan,0
+2018-09-17,Haveri,6
+2018-09-17,Kalaburagi,0
+2018-09-17,Kodagu,0
+2018-09-17,Kolar,10
+2018-09-17,Koppal,0
+2018-09-17,Mandya,0
+2018-09-17,Mysuru,0
+2018-09-17,Raichur,0
+2018-09-17,Ramanagara,0
+2018-09-17,Shivamogga,0
+2018-09-17,Tumakuru,0
+2018-09-17,Udupi,7
+2018-09-17,Uttara Kannada,0
+2018-09-17,Vijayapura,0
+2018-09-17,Yadgir,0
+2018-09-24,Bagalkote,0
+2018-09-24,Ballari,3
+2018-09-24,Belagavi,0
+2018-09-24,Bengaluru Rural,0
+2018-09-24,Bengaluru Urban,0
+2018-09-24,Bidar,0
+2018-09-24,Chamarajanagara,0
+2018-09-24,Chikkaballapura,1
+2018-09-24,Chikkamagaluru,0
+2018-09-24,Chitradurga,2
+2018-09-24,Dakshina Kannada,19
+2018-09-24,Davangere,9
+2018-09-24,Dharwad,0
+2018-09-24,Gadag,0
+2018-09-24,Hassan,0
+2018-09-24,Haveri,6
+2018-09-24,Kalaburagi,43
+2018-09-24,Kodagu,1
+2018-09-24,Kolar,0
+2018-09-24,Koppal,3
+2018-09-24,Mandya,0
+2018-09-24,Mysuru,2
+2018-09-24,Raichur,0
+2018-09-24,Ramanagara,3
+2018-09-24,Shivamogga,10
+2018-09-24,Tumakuru,0
+2018-09-24,Udupi,1
+2018-09-24,Uttara Kannada,0
+2018-09-24,Vijayapura,0
+2018-09-24,Yadgir,1
+2018-10-01,Bagalkote,0
+2018-10-01,Ballari,0
+2018-10-01,Belagavi,0
+2018-10-01,Bengaluru Rural,0
+2018-10-01,Bengaluru Urban,0
+2018-10-01,Bidar,0
+2018-10-01,Chamarajanagara,0
+2018-10-01,Chikkaballapura,0
+2018-10-01,Chikkamagaluru,3
+2018-10-01,Chitradurga,0
+2018-10-01,Dakshina Kannada,0
+2018-10-01,Davangere,1
+2018-10-01,Dharwad,0
+2018-10-01,Gadag,1
+2018-10-01,Hassan,16
+2018-10-01,Haveri,0
+2018-10-01,Kalaburagi,0
+2018-10-01,Kodagu,0
+2018-10-01,Kolar,0
+2018-10-01,Koppal,0
+2018-10-01,Mandya,1
+2018-10-01,Mysuru,0
+2018-10-01,Raichur,0
+2018-10-01,Ramanagara,0
+2018-10-01,Shivamogga,0
+2018-10-01,Tumakuru,0
+2018-10-01,Udupi,1
+2018-10-01,Uttara Kannada,0
+2018-10-01,Vijayapura,0
+2018-10-01,Yadgir,0
+2018-10-08,Bagalkote,0
+2018-10-08,Ballari,2
+2018-10-08,Belagavi,0
+2018-10-08,Bengaluru Rural,0
+2018-10-08,Bengaluru Urban,0
+2018-10-08,Bidar,0
+2018-10-08,Chamarajanagara,0
+2018-10-08,Chikkaballapura,0
+2018-10-08,Chikkamagaluru,0
+2018-10-08,Chitradurga,2
+2018-10-08,Dakshina Kannada,0
+2018-10-08,Davangere,9
+2018-10-08,Dharwad,0
+2018-10-08,Gadag,0
+2018-10-08,Hassan,0
+2018-10-08,Haveri,4
+2018-10-08,Kalaburagi,0
+2018-10-08,Kodagu,0
+2018-10-08,Kolar,0
+2018-10-08,Koppal,0
+2018-10-08,Mandya,2
+2018-10-08,Mysuru,0
+2018-10-08,Raichur,0
+2018-10-08,Ramanagara,0
+2018-10-08,Shivamogga,4
+2018-10-08,Tumakuru,0
+2018-10-08,Udupi,0
+2018-10-08,Uttara Kannada,0
+2018-10-08,Vijayapura,0
+2018-10-08,Yadgir,0
+2018-10-15,Bagalkote,0
+2018-10-15,Ballari,0
+2018-10-15,Belagavi,0
+2018-10-15,Bengaluru Rural,0
+2018-10-15,Bengaluru Urban,0
+2018-10-15,Bidar,0
+2018-10-15,Chamarajanagara,0
+2018-10-15,Chikkaballapura,0
+2018-10-15,Chikkamagaluru,0
+2018-10-15,Chitradurga,1
+2018-10-15,Dakshina Kannada,0
+2018-10-15,Davangere,1
+2018-10-15,Dharwad,0
+2018-10-15,Gadag,4
+2018-10-15,Hassan,0
+2018-10-15,Haveri,4
+2018-10-15,Kalaburagi,54
+2018-10-15,Kodagu,0
+2018-10-15,Kolar,0
+2018-10-15,Koppal,0
+2018-10-15,Mandya,0
+2018-10-15,Mysuru,5
+2018-10-15,Raichur,0
+2018-10-15,Ramanagara,0
+2018-10-15,Shivamogga,8
+2018-10-15,Tumakuru,0
+2018-10-15,Udupi,8
+2018-10-15,Uttara Kannada,0
+2018-10-15,Vijayapura,0
+2018-10-15,Yadgir,0
+2018-10-22,Bagalkote,0
+2018-10-22,Ballari,0
+2018-10-22,Belagavi,0
+2018-10-22,Bengaluru Rural,0
+2018-10-22,Bengaluru Urban,0
+2018-10-22,Bidar,0
+2018-10-22,Chamarajanagara,0
+2018-10-22,Chikkaballapura,0
+2018-10-22,Chikkamagaluru,0
+2018-10-22,Chitradurga,0
+2018-10-22,Dakshina Kannada,38
+2018-10-22,Davangere,4
+2018-10-22,Dharwad,0
+2018-10-22,Gadag,0
+2018-10-22,Hassan,10
+2018-10-22,Haveri,7
+2018-10-22,Kalaburagi,0
+2018-10-22,Kodagu,0
+2018-10-22,Kolar,0
+2018-10-22,Koppal,1
+2018-10-22,Mandya,0
+2018-10-22,Mysuru,0
+2018-10-22,Raichur,0
+2018-10-22,Ramanagara,0
+2018-10-22,Shivamogga,0
+2018-10-22,Tumakuru,0
+2018-10-22,Udupi,2
+2018-10-22,Uttara Kannada,0
+2018-10-22,Vijayapura,0
+2018-10-22,Yadgir,0
+2018-10-29,Bagalkote,0
+2018-10-29,Ballari,0
+2018-10-29,Belagavi,0
+2018-10-29,Bengaluru Rural,0
+2018-10-29,Bengaluru Urban,0
+2018-10-29,Bidar,0
+2018-10-29,Chamarajanagara,0
+2018-10-29,Chikkaballapura,0
+2018-10-29,Chikkamagaluru,0
+2018-10-29,Chitradurga,1
+2018-10-29,Dakshina Kannada,8
+2018-10-29,Davangere,1
+2018-10-29,Dharwad,23
+2018-10-29,Gadag,2
+2018-10-29,Hassan,0
+2018-10-29,Haveri,3
+2018-10-29,Kalaburagi,0
+2018-10-29,Kodagu,0
+2018-10-29,Kolar,0
+2018-10-29,Koppal,4
+2018-10-29,Mandya,0
+2018-10-29,Mysuru,4
+2018-10-29,Raichur,2
+2018-10-29,Ramanagara,0
+2018-10-29,Shivamogga,8
+2018-10-29,Tumakuru,0
+2018-10-29,Udupi,8
+2018-10-29,Uttara Kannada,10
+2018-10-29,Vijayapura,0
+2018-10-29,Yadgir,0
+2018-11-05,Bagalkote,0
+2018-11-05,Ballari,0
+2018-11-05,Belagavi,0
+2018-11-05,Bengaluru Rural,0
+2018-11-05,Bengaluru Urban,0
+2018-11-05,Bidar,0
+2018-11-05,Chamarajanagara,0
+2018-11-05,Chikkaballapura,0
+2018-11-05,Chikkamagaluru,0
+2018-11-05,Chitradurga,1
+2018-11-05,Dakshina Kannada,0
+2018-11-05,Davangere,0
+2018-11-05,Dharwad,0
+2018-11-05,Gadag,0
+2018-11-05,Hassan,0
+2018-11-05,Haveri,0
+2018-11-05,Kalaburagi,0
+2018-11-05,Kodagu,0
+2018-11-05,Kolar,0
+2018-11-05,Koppal,0
+2018-11-05,Mandya,0
+2018-11-05,Mysuru,0
+2018-11-05,Raichur,0
+2018-11-05,Ramanagara,0
+2018-11-05,Shivamogga,0
+2018-11-05,Tumakuru,0
+2018-11-05,Udupi,0
+2018-11-05,Uttara Kannada,0
+2018-11-05,Vijayapura,0
+2018-11-05,Yadgir,0
+2018-11-12,Bagalkote,0
+2018-11-12,Ballari,7
+2018-11-12,Belagavi,0
+2018-11-12,Bengaluru Rural,0
+2018-11-12,Bengaluru Urban,0
+2018-11-12,Bidar,0
+2018-11-12,Chamarajanagara,0
+2018-11-12,Chikkaballapura,0
+2018-11-12,Chikkamagaluru,4
+2018-11-12,Chitradurga,4
+2018-11-12,Dakshina Kannada,3
+2018-11-12,Davangere,6
+2018-11-12,Dharwad,0
+2018-11-12,Gadag,0
+2018-11-12,Hassan,0
+2018-11-12,Haveri,1
+2018-11-12,Kalaburagi,0
+2018-11-12,Kodagu,0
+2018-11-12,Kolar,0
+2018-11-12,Koppal,3
+2018-11-12,Mandya,1
+2018-11-12,Mysuru,0
+2018-11-12,Raichur,1
+2018-11-12,Ramanagara,0
+2018-11-12,Shivamogga,9
+2018-11-12,Tumakuru,0
+2018-11-12,Udupi,0
+2018-11-12,Uttara Kannada,1
+2018-11-12,Vijayapura,0
+2018-11-12,Yadgir,0
+2018-11-19,Bagalkote,0
+2018-11-19,Ballari,0
+2018-11-19,Belagavi,0
+2018-11-19,Bengaluru Rural,0
+2018-11-19,Bengaluru Urban,0
+2018-11-19,Bidar,0
+2018-11-19,Chamarajanagara,0
+2018-11-19,Chikkaballapura,0
+2018-11-19,Chikkamagaluru,2
+2018-11-19,Chitradurga,0
+2018-11-19,Dakshina Kannada,5
+2018-11-19,Davangere,0
+2018-11-19,Dharwad,0
+2018-11-19,Gadag,3
+2018-11-19,Hassan,0
+2018-11-19,Haveri,12
+2018-11-19,Kalaburagi,0
+2018-11-19,Kodagu,0
+2018-11-19,Kolar,0
+2018-11-19,Koppal,3
+2018-11-19,Mandya,2
+2018-11-19,Mysuru,3
+2018-11-19,Raichur,0
+2018-11-19,Ramanagara,0
+2018-11-19,Shivamogga,6
+2018-11-19,Tumakuru,0
+2018-11-19,Udupi,6
+2018-11-19,Uttara Kannada,3
+2018-11-19,Vijayapura,0
+2018-11-19,Yadgir,0
+2018-11-26,Bagalkote,0
+2018-11-26,Ballari,0
+2018-11-26,Belagavi,0
+2018-11-26,Bengaluru Rural,0
+2018-11-26,Bengaluru Urban,0
+2018-11-26,Bidar,0
+2018-11-26,Chamarajanagara,0
+2018-11-26,Chikkaballapura,0
+2018-11-26,Chikkamagaluru,2
+2018-11-26,Chitradurga,3
+2018-11-26,Dakshina Kannada,0
+2018-11-26,Davangere,1
+2018-11-26,Dharwad,0
+2018-11-26,Gadag,1
+2018-11-26,Hassan,0
+2018-11-26,Haveri,3
+2018-11-26,Kalaburagi,164
+2018-11-26,Kodagu,0
+2018-11-26,Kolar,0
+2018-11-26,Koppal,1
+2018-11-26,Mandya,0
+2018-11-26,Mysuru,2
+2018-11-26,Raichur,0
+2018-11-26,Ramanagara,0
+2018-11-26,Shivamogga,5
+2018-11-26,Tumakuru,0
+2018-11-26,Udupi,1
+2018-11-26,Uttara Kannada,0
+2018-11-26,Vijayapura,0
+2018-11-26,Yadgir,0
+2018-12-03,Bagalkote,0
+2018-12-03,Ballari,0
+2018-12-03,Belagavi,13
+2018-12-03,Bengaluru Rural,0
+2018-12-03,Bengaluru Urban,0
+2018-12-03,Bidar,0
+2018-12-03,Chamarajanagara,0
+2018-12-03,Chikkaballapura,0
+2018-12-03,Chikkamagaluru,1
+2018-12-03,Chitradurga,3
+2018-12-03,Dakshina Kannada,0
+2018-12-03,Davangere,0
+2018-12-03,Dharwad,4
+2018-12-03,Gadag,0
+2018-12-03,Hassan,0
+2018-12-03,Haveri,3
+2018-12-03,Kalaburagi,0
+2018-12-03,Kodagu,0
+2018-12-03,Kolar,0
+2018-12-03,Koppal,1
+2018-12-03,Mandya,3
+2018-12-03,Mysuru,0
+2018-12-03,Raichur,0
+2018-12-03,Ramanagara,0
+2018-12-03,Shivamogga,0
+2018-12-03,Tumakuru,0
+2018-12-03,Udupi,0
+2018-12-03,Uttara Kannada,0
+2018-12-03,Vijayapura,0
+2018-12-03,Yadgir,0
+2018-12-10,Bagalkote,0
+2018-12-10,Ballari,0
+2018-12-10,Belagavi,0
+2018-12-10,Bengaluru Rural,0
+2018-12-10,Bengaluru Urban,568
+2018-12-10,Bidar,0
+2018-12-10,Chamarajanagara,0
+2018-12-10,Chikkaballapura,0
+2018-12-10,Chikkamagaluru,0
+2018-12-10,Chitradurga,1
+2018-12-10,Dakshina Kannada,14
+2018-12-10,Davangere,0
+2018-12-10,Dharwad,0
+2018-12-10,Gadag,0
+2018-12-10,Hassan,0
+2018-12-10,Haveri,1
+2018-12-10,Kalaburagi,0
+2018-12-10,Kodagu,1
+2018-12-10,Kolar,0
+2018-12-10,Koppal,2
+2018-12-10,Mandya,0
+2018-12-10,Mysuru,0
+2018-12-10,Raichur,0
+2018-12-10,Ramanagara,2
+2018-12-10,Shivamogga,0
+2018-12-10,Tumakuru,0
+2018-12-10,Udupi,3
+2018-12-10,Uttara Kannada,0
+2018-12-10,Vijayapura,0
+2018-12-10,Yadgir,0
+2018-12-17,Bagalkote,0
+2018-12-17,Ballari,0
+2018-12-17,Belagavi,2
+2018-12-17,Bengaluru Rural,0
+2018-12-17,Bengaluru Urban,0
+2018-12-17,Bidar,0
+2018-12-17,Chamarajanagara,0
+2018-12-17,Chikkaballapura,0
+2018-12-17,Chikkamagaluru,0
+2018-12-17,Chitradurga,1
+2018-12-17,Dakshina Kannada,0
+2018-12-17,Davangere,0
+2018-12-17,Dharwad,0
+2018-12-17,Gadag,0
+2018-12-17,Hassan,0
+2018-12-17,Haveri,0
+2018-12-17,Kalaburagi,0
+2018-12-17,Kodagu,0
+2018-12-17,Kolar,0
+2018-12-17,Koppal,0
+2018-12-17,Mandya,0
+2018-12-17,Mysuru,0
+2018-12-17,Raichur,0
+2018-12-17,Ramanagara,0
+2018-12-17,Shivamogga,10
+2018-12-17,Tumakuru,0
+2018-12-17,Udupi,4
+2018-12-17,Uttara Kannada,0
+2018-12-17,Vijayapura,0
+2018-12-17,Yadgir,0
+2018-12-24,Bagalkote,0
+2018-12-24,Ballari,0
+2018-12-24,Belagavi,0
+2018-12-24,Bengaluru Rural,0
+2018-12-24,Bengaluru Urban,0
+2018-12-24,Bidar,101
+2018-12-24,Chamarajanagara,0
+2018-12-24,Chikkaballapura,1
+2018-12-24,Chikkamagaluru,0
+2018-12-24,Chitradurga,0
+2018-12-24,Dakshina Kannada,22
+2018-12-24,Davangere,3
+2018-12-24,Dharwad,0
+2018-12-24,Gadag,0
+2018-12-24,Hassan,34
+2018-12-24,Haveri,2
+2018-12-24,Kalaburagi,0
+2018-12-24,Kodagu,0
+2018-12-24,Kolar,0
+2018-12-24,Koppal,0
+2018-12-24,Mandya,0
+2018-12-24,Mysuru,0
+2018-12-24,Raichur,0
+2018-12-24,Ramanagara,2
+2018-12-24,Shivamogga,0
+2018-12-24,Tumakuru,0
+2018-12-24,Udupi,5
+2018-12-24,Uttara Kannada,0
+2018-12-24,Vijayapura,0
+2018-12-24,Yadgir,0
+2018-12-31,Bagalkote,0
+2018-12-31,Ballari,0
+2018-12-31,Belagavi,2
+2018-12-31,Bengaluru Rural,0
+2018-12-31,Bengaluru Urban,7
+2018-12-31,Bidar,0
+2018-12-31,Chamarajanagara,0
+2018-12-31,Chikkaballapura,1
+2018-12-31,Chikkamagaluru,0
+2018-12-31,Chitradurga,1
+2018-12-31,Dakshina Kannada,3
+2018-12-31,Davangere,1
+2018-12-31,Dharwad,0
+2018-12-31,Gadag,0
+2018-12-31,Hassan,0
+2018-12-31,Haveri,0
+2018-12-31,Kalaburagi,0
+2018-12-31,Kodagu,0
+2018-12-31,Kolar,2
+2018-12-31,Koppal,2
+2018-12-31,Mandya,0
+2018-12-31,Mysuru,0
+2018-12-31,Raichur,0
+2018-12-31,Ramanagara,0
+2018-12-31,Shivamogga,0
+2018-12-31,Tumakuru,0
+2018-12-31,Udupi,0
+2018-12-31,Uttara Kannada,0
+2018-12-31,Vijayapura,0
+2018-12-31,Yadgir,0

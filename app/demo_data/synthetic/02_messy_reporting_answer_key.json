@@ -1,0 +1,29 @@
+{
+ "title": "Outbreak with half the hospitals reporting unreliably",
+ "settings": {
+  "title": "Outbreak with half the hospitals reporting unreliably",
+  "outbreak": true,
+  "epicentre": 22,
+  "size": 10,
+  "peak": 40,
+  "onset": 7,
+  "duration": 28,
+  "start": 60,
+  "unreliable": 50,
+  "seed": 404
+ },
+ "outbreak_start": "2028-04-17",
+ "affected_hospitals": [
+  "F00",
+  "F10",
+  "F12",
+  "F14",
+  "F16",
+  "F18",
+  "F21",
+  "F22",
+  "F28",
+  "F29"
+ ],
+ "model_result": "Alert on 2028-04-20, 3 days after onset"
+}

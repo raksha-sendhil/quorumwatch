@@ -1,0 +1,25 @@
+{
+ "title": "Clear outbreak",
+ "settings": {
+  "title": "Clear outbreak",
+  "outbreak": true,
+  "epicentre": 14,
+  "size": 6,
+  "peak": 60,
+  "onset": 7,
+  "duration": 28,
+  "start": 40,
+  "unreliable": 10,
+  "seed": 101
+ },
+ "outbreak_start": "2028-02-28",
+ "affected_hospitals": [
+  "F00",
+  "F10",
+  "F14",
+  "F18",
+  "F22",
+  "F28"
+ ],
+ "model_result": "Alert on 2028-03-03, 4 days after onset (+2 false alerts)"
+}

@@ -1,0 +1,34 @@
+{
+ "training_rows": 21464,
+ "calibration_rows": 10739,
+ "training_days": 730,
+ "calibration_days": 365,
+ "training_contains_outbreaks": false,
+ "z_mean_training": 0.01001713425727704,
+ "z_std_training": 1.0313304687238694,
+ "volume_vs_z_std_correlation": 0.39553230161945013,
+ "volume_vs_mean_raw_score_spearman": 0.6409343715239153,
+ "algorithm": "sklearn.ensemble.IsolationForest",
+ "features": [
+  "z_current",
+  "rolling_mean_z",
+  "rolling_std_z",
+  "rate_of_change_z",
+  "dow_sin",
+  "dow_cos",
+  "season_sin",
+  "season_cos",
+  "long_window_z"
+ ],
+ "long_window": 14,
+ "quench_gamma": 1.0,
+ "hyperparameters": {
+  "n_estimators": 200,
+  "max_samples": 512,
+  "max_features": 1.0,
+  "random_state": 7
+ },
+ "score_calibration": "P = max(0, ln(tail / p)), with p the upper-tail probability under that facility's own separate normal data",
+ "production_tail": 0.5,
+ "statement": "Scores unusual local reporting patterns. It does not predict outbreaks."
+}

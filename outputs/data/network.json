@@ -1,0 +1,714 @@
+{
+ "facilities": [
+  {
+   "facility_id": "F00",
+   "x_km": 77.34469495454888,
+   "y_km": 48.669453545617856,
+   "baseline_daily_count": 64.11904549032938,
+   "nominal_reliability": 0.9831180045369502,
+   "degree": 5,
+   "weighted_degree": 0.8371410253887774
+  },
+  {
+   "facility_id": "F01",
+   "x_km": 7.588699521882258,
+   "y_km": 66.97700745415811,
+   "baseline_daily_count": 41.89870320771846,
+   "nominal_reliability": 0.9872137210535914,
+   "degree": 5,
+   "weighted_degree": 0.6185716986924521
+  },
+  {
+   "facility_id": "F02",
+   "x_km": 22.50211458435909,
+   "y_km": 60.82686065403621,
+   "baseline_daily_count": 8.402549351372997,
+   "nominal_reliability": 0.8943617885401801,
+   "degree": 6,
+   "weighted_degree": 0.7828824436556219
+  },
+  {
+   "facility_id": "F03",
+   "x_km": 42.246428121969835,
+   "y_km": 53.99551022138316,
+   "baseline_daily_count": 57.820669422045846,
+   "nominal_reliability": 0.9590273043079737,
+   "degree": 4,
+   "weighted_degree": 0.5043886125280205
+  },
+  {
+   "facility_id": "F04",
+   "x_km": 17.74164736341486,
+   "y_km": 84.02162480764039,
+   "baseline_daily_count": 32.53607750420406,
+   "nominal_reliability": 0.9624562709892764,
+   "degree": 5,
+   "weighted_degree": 0.6165823766389514
+  },
+  {
+   "facility_id": "F05",
+   "x_km": 24.97984942003073,
+   "y_km": 9.207828528202544,
+   "baseline_daily_count": 8.876532838963938,
+   "nominal_reliability": 0.9516405889810629,
+   "degree": 4,
+   "weighted_degree": 0.5053777729246934
+  },
+  {
+   "facility_id": "F06",
+   "x_km": 50.228012809944744,
+   "y_km": 96.86869830902712,
+   "baseline_daily_count": 25.508854164737382,
+   "nominal_reliability": 0.9862878818876292,
+   "degree": 5,
+   "weighted_degree": 0.39361291725641717
+  },
+  {
+   "facility_id": "F07",
+   "x_km": 91.72513906956873,
+   "y_km": 68.36198038714075,
+   "baseline_daily_count": 19.701783994408366,
+   "nominal_reliability": 0.9702854528275043,
+   "degree": 5,
+   "weighted_degree": 0.5844467563844611
+  },
+  {
+   "facility_id": "F08",
+   "x_km": 91.08385746596855,
+   "y_km": 79.90746738414103,
+   "baseline_daily_count": 40.26101262106441,
+   "nominal_reliability": 0.991816716883878,
+   "degree": 4,
+   "weighted_degree": 0.4730795737196055
+  },
+  {
+   "facility_id": "F09",
+   "x_km": 45.06926355044458,
+   "y_km": 71.24231157552283,
+   "baseline_daily_count": 14.33218387240703,
+   "nominal_reliability": 0.9710977079817488,
+   "degree": 5,
+   "weighted_degree": 0.4995781847725387
+  },
+  {
+   "facility_id": "F10",
+   "x_km": 71.67000731909307,
+   "y_km": 43.54928421942334,
+   "baseline_daily_count": 145.14818014285106,
+   "nominal_reliability": 0.972998256884376,
+   "degree": 6,
+   "weighted_degree": 1.0
+  },
+  {
+   "facility_id": "F11",
+   "x_km": 32.979453818730995,
+   "y_km": 97.07033296857873,
+   "baseline_daily_count": 22.142049509088476,
+   "nominal_reliability": 0.9538457550919978,
+   "degree": 4,
+   "weighted_degree": 0.477250526072197
+  },
+  {
+   "facility_id": "F12",
+   "x_km": 84.15792068150522,
+   "y_km": 30.36478902167934,
+   "baseline_daily_count": 25.73450085207458,
+   "nominal_reliability": 0.9868021316776172,
+   "degree": 6,
+   "weighted_degree": 0.8041404837497739
+  },
+  {
+   "facility_id": "F13",
+   "x_km": 55.826580958506725,
+   "y_km": 4.4436383615075625,
+   "baseline_daily_count": 67.94623601991448,
+   "nominal_reliability": 0.8923378827229161,
+   "degree": 4,
+   "weighted_degree": 0.30925851943687355
+  },
+  {
+   "facility_id": "F14",
+   "x_km": 63.343077504860844,
+   "y_km": 40.0082671169016,
+   "baseline_daily_count": 22.125261533401083,
+   "nominal_reliability": 0.9355093985467691,
+   "degree": 5,
+   "weighted_degree": 0.7239304822634858
+  },
+  {
+   "facility_id": "F15",
+   "x_km": 7.986285370268542,
+   "y_km": 50.35871444657564,
+   "baseline_daily_count": 79.6902902372663,
+   "nominal_reliability": 0.9774310992199428,
+   "degree": 5,
+   "weighted_degree": 0.6600445587843327
+  },
+  {
+   "facility_id": "F16",
+   "x_km": 86.18423469391404,
+   "y_km": 19.52234133213845,
+   "baseline_daily_count": 7.920332428487113,
+   "nominal_reliability": 0.9686914069627759,
+   "degree": 5,
+   "weighted_degree": 0.7203085643871036
+  },
+  {
+   "facility_id": "F17",
+   "x_km": 28.006838832949065,
+   "y_km": 55.12393913873531,
+   "baseline_daily_count": 14.823423436200542,
+   "nominal_reliability": 0.9658401829221922,
+   "degree": 5,
+   "weighted_degree": 0.6904909843934244
+  },
+  {
+   "facility_id": "F18",
+   "x_km": 70.68908310121681,
+   "y_km": 26.23670458747972,
+   "baseline_daily_count": 44.9928866611393,
+   "nominal_reliability": 0.9720192485511419,
+   "degree": 7,
+   "weighted_degree": 0.8310290356659553
+  },
+  {
+   "facility_id": "F19",
+   "x_km": 31.74492197064763,
+   "y_km": 11.86324440229065,
+   "baseline_daily_count": 15.735958977071618,
+   "nominal_reliability": 0.9738097299745028,
+   "degree": 4,
+   "weighted_degree": 0.4824043777069216
+  },
+  {
+   "facility_id": "F20",
+   "x_km": 87.54923463837977,
+   "y_km": 94.95894176023492,
+   "baseline_daily_count": 38.012158618229925,
+   "nominal_reliability": 0.9581131480775402,
+   "degree": 4,
+   "weighted_degree": 0.3278742512079805
+  },
+  {
+   "facility_id": "F21",
+   "x_km": 95.22652667483995,
+   "y_km": 2.821114996264751,
+   "baseline_daily_count": 11.02842151483708,
+   "nominal_reliability": 0.9658260158106743,
+   "degree": 4,
+   "weighted_degree": 0.4638099489736215
+  },
+  {
+   "facility_id": "F22",
+   "x_km": 70.63257629159064,
+   "y_km": 57.035575194453145,
+   "baseline_daily_count": 49.46027303248235,
+   "nominal_reliability": 0.9750540013562173,
+   "degree": 7,
+   "weighted_degree": 0.8164105336274349
+  },
+  {
+   "facility_id": "F23",
+   "x_km": 0.9492669274152155,
+   "y_km": 21.724459279176944,
+   "baseline_daily_count": 48.492677373369474,
+   "nominal_reliability": 0.995,
+   "degree": 5,
+   "weighted_degree": 0.5690866753343404
+  },
+  {
+   "facility_id": "F24",
+   "x_km": 16.044917713889085,
+   "y_km": 97.37385777124608,
+   "baseline_daily_count": 11.751394963312459,
+   "nominal_reliability": 0.9948135070239849,
+   "degree": 5,
+   "weighted_degree": 0.5552905143892823
+  },
+  {
+   "facility_id": "F25",
+   "x_km": 8.648436059189525,
+   "y_km": 19.539976167112506,
+   "baseline_daily_count": 12.089037260264753,
+   "nominal_reliability": 0.8662714327485043,
+   "degree": 4,
+   "weighted_degree": 0.5604658458364093
+  },
+  {
+   "facility_id": "F26",
+   "x_km": 2.30735701073681,
+   "y_km": 82.99025248478696,
+   "baseline_daily_count": 145.41920089173303,
+   "nominal_reliability": 0.9569768859415524,
+   "degree": 4,
+   "weighted_degree": 0.4861235354137601
+  },
+  {
+   "facility_id": "F27",
+   "x_km": 7.808728302788682,
+   "y_km": 39.66457366140769,
+   "baseline_daily_count": 7.435281441739478,
+   "nominal_reliability": 0.923837456828596,
+   "degree": 4,
+   "weighted_degree": 0.5284001888844885
+  },
+  {
+   "facility_id": "F28",
+   "x_km": 89.09943295930735,
+   "y_km": 48.46874927635743,
+   "baseline_daily_count": 46.42537020267711,
+   "nominal_reliability": 0.9827542430652189,
+   "degree": 6,
+   "weighted_degree": 0.7483853247695607
+  },
+  {
+   "facility_id": "F29",
+   "x_km": 90.89382890410317,
+   "y_km": 11.349403983747486,
+   "baseline_daily_count": 13.806540241647085,
+   "nominal_reliability": 0.9162633895792143,
+   "degree": 4,
+   "weighted_degree": 0.6198866709483122
+  }
+ ],
+ "edges": [
+  {
+   "source": "F00",
+   "target": "F07",
+   "weight": 0.09671980491403027,
+   "distance_km": 24.384273340604356
+  },
+  {
+   "source": "F00",
+   "target": "F10",
+   "weight": 0.22337965512506464,
+   "distance_km": 7.643180861977443
+  },
+  {
+   "source": "F00",
+   "target": "F14",
+   "weight": 0.14371535935283358,
+   "distance_km": 16.463943681888228
+  },
+  {
+   "source": "F00",
+   "target": "F22",
+   "weight": 0.19147127440916933,
+   "distance_km": 10.725881240660037
+  },
+  {
+   "source": "F00",
+   "target": "F28",
+   "weight": 0.18185493158767965,
+   "distance_km": 11.756451325302733
+  },
+  {
+   "source": "F01",
+   "target": "F02",
+   "weight": 0.14612215750174012,
+   "distance_km": 16.131777784508458
+  },
+  {
+   "source": "F01",
+   "target": "F04",
+   "weight": 0.12139654738024719,
+   "distance_km": 19.839388362535544
+  },
+  {
+   "source": "F01",
+   "target": "F15",
+   "weight": 0.1425766055393695,
+   "distance_km": 16.62304836643092
+  },
+  {
+   "source": "F01",
+   "target": "F24",
+   "weight": 0.06759091018504627,
+   "distance_km": 31.551166940547194
+  },
+  {
+   "source": "F01",
+   "target": "F26",
+   "weight": 0.1408854780860491,
+   "distance_km": 16.861690162347063
+  },
+  {
+   "source": "F02",
+   "target": "F03",
+   "weight": 0.11516851855707456,
+   "distance_km": 20.892708436322657
+  },
+  {
+   "source": "F02",
+   "target": "F09",
+   "weight": 0.09447120962303727,
+   "distance_km": 24.854734566182557
+  },
+  {
+   "source": "F02",
+   "target": "F15",
+   "weight": 0.13378011751931662,
+   "distance_km": 17.896686363498013
+  },
+  {
+   "source": "F02",
+   "target": "F17",
+   "weight": 0.2202404239772385,
+   "distance_km": 7.9262414083029515
+  },
+  {
+   "source": "F02",
+   "target": "F26",
+   "weight": 0.0731000164772148,
+   "distance_km": 29.984065283092683
+  },
+  {
+   "source": "F03",
+   "target": "F09",
+   "weight": 0.13662194401468442,
+   "distance_km": 17.476285555157492
+  },
+  {
+   "source": "F03",
+   "target": "F14",
+   "weight": 0.09233449429955791,
+   "distance_km": 25.312281304704687
+  },
+  {
+   "source": "F03",
+   "target": "F17",
+   "weight": 0.16026365565670364,
+   "distance_km": 14.284230988804108
+  },
+  {
+   "source": "F04",
+   "target": "F06",
+   "weight": 0.05707194238448572,
+   "distance_km": 34.934384744482394
+  },
+  {
+   "source": "F04",
+   "target": "F11",
+   "weight": 0.12005646275161903,
+   "distance_km": 20.061394025316705
+  },
+  {
+   "source": "F04",
+   "target": "F24",
+   "weight": 0.16700963639277816,
+   "distance_km": 13.459606852281317
+  },
+  {
+   "source": "F04",
+   "target": "F26",
+   "weight": 0.1510477877298214,
+   "distance_km": 15.468711890752855
+  },
+  {
+   "source": "F05",
+   "target": "F13",
+   "weight": 0.06874529510772728,
+   "distance_km": 31.21247113817236
+  },
+  {
+   "source": "F05",
+   "target": "F19",
+   "weight": 0.22761459275236046,
+   "distance_km": 7.267560806726652
+  },
+  {
+   "source": "F05",
+   "target": "F23",
+   "weight": 0.08446063984551486,
+   "distance_km": 27.094924622346475
+  },
+  {
+   "source": "F05",
+   "target": "F25",
+   "weight": 0.12455724521909088,
+   "distance_km": 19.325328902631785
+  },
+  {
+   "source": "F06",
+   "target": "F09",
+   "weight": 0.0885890398965514,
+   "distance_km": 26.140474191137354
+  },
+  {
+   "source": "F06",
+   "target": "F11",
+   "weight": 0.13817831397524746,
+   "distance_km": 17.249737499721935
+  },
+  {
+   "source": "F06",
+   "target": "F20",
+   "weight": 0.05052808236294859,
+   "distance_km": 37.37005176398489
+  },
+  {
+   "source": "F06",
+   "target": "F24",
+   "weight": 0.059245538637184014,
+   "distance_km": 34.18682752798589
+  },
+  {
+   "source": "F07",
+   "target": "F08",
+   "weight": 0.1836198724131473,
+   "distance_km": 11.563282928866638
+  },
+  {
+   "source": "F07",
+   "target": "F20",
+   "weight": 0.08519071416519225,
+   "distance_km": 26.922788341854325
+  },
+  {
+   "source": "F07",
+   "target": "F22",
+   "weight": 0.09888614517346286,
+   "distance_km": 23.9412543349735
+  },
+  {
+   "source": "F07",
+   "target": "F28",
+   "weight": 0.12003021971862836,
+   "distance_km": 20.065766285006443
+  },
+  {
+   "source": "F08",
+   "target": "F20",
+   "weight": 0.1511065507635742,
+   "distance_km": 15.460932682976233
+  },
+  {
+   "source": "F08",
+   "target": "F22",
+   "weight": 0.07059345060645585,
+   "distance_km": 30.681889674695235
+  },
+  {
+   "source": "F08",
+   "target": "F28",
+   "weight": 0.06775969993642819,
+   "distance_km": 31.501284686236495
+  },
+  {
+   "source": "F09",
+   "target": "F11",
+   "weight": 0.0786615732917313,
+   "distance_km": 28.517541766940386
+  },
+  {
+   "source": "F09",
+   "target": "F17",
+   "weight": 0.10123441794653427,
+   "distance_km": 23.471861179957454
+  },
+  {
+   "source": "F10",
+   "target": "F12",
+   "weight": 0.13203157367790286,
+   "distance_km": 18.15981535606699
+  },
+  {
+   "source": "F10",
+   "target": "F14",
+   "weight": 0.2082217282712546,
+   "distance_km": 9.04856686174673
+  },
+  {
+   "source": "F10",
+   "target": "F18",
+   "weight": 0.13755371814172607,
+   "distance_km": 17.34034676220765
+  },
+  {
+   "source": "F10",
+   "target": "F22",
+   "weight": 0.1664550236101952,
+   "distance_km": 13.526134237098013
+  },
+  {
+   "source": "F10",
+   "target": "F28",
+   "weight": 0.13235830117385672,
+   "distance_km": 18.110384164731414
+  },
+  {
+   "source": "F11",
+   "target": "F24",
+   "weight": 0.14035417605359915,
+   "distance_km": 16.937255987674877
+  },
+  {
+   "source": "F12",
+   "target": "F16",
+   "weight": 0.18858020818079035,
+   "distance_km": 11.030168646821085
+  },
+  {
+   "source": "F12",
+   "target": "F18",
+   "weight": 0.16184988340090153,
+   "distance_km": 14.0872519271883
+  },
+  {
+   "source": "F12",
+   "target": "F21",
+   "weight": 0.07420326402800158,
+   "distance_km": 29.68447435030615
+  },
+  {
+   "source": "F12",
+   "target": "F28",
+   "weight": 0.12808827151977029,
+   "distance_km": 18.76624417656962
+  },
+  {
+   "source": "F12",
+   "target": "F29",
+   "weight": 0.11938728294240725,
+   "distance_km": 20.17318338101514
+  },
+  {
+   "source": "F13",
+   "target": "F16",
+   "weight": 0.06011265258782599,
+   "distance_km": 33.8962302269058
+  },
+  {
+   "source": "F13",
+   "target": "F18",
+   "weight": 0.08754043052798273,
+   "distance_km": 26.3786221298928
+  },
+  {
+   "source": "F13",
+   "target": "F19",
+   "weight": 0.0928601412133375,
+   "distance_km": 25.198747060279793
+  },
+  {
+   "source": "F14",
+   "target": "F18",
+   "weight": 0.149997065261151,
+   "distance_km": 15.608322546752738
+  },
+  {
+   "source": "F14",
+   "target": "F22",
+   "weight": 0.12966183507868873,
+   "distance_km": 18.522041273293482
+  },
+  {
+   "source": "F15",
+   "target": "F17",
+   "weight": 0.1169842978260521,
+   "distance_km": 20.579842742810676
+  },
+  {
+   "source": "F15",
+   "target": "F23",
+   "weight": 0.07494228540012547,
+   "distance_km": 29.486271340350186
+  },
+  {
+   "source": "F15",
+   "target": "F27",
+   "weight": 0.191761252499469,
+   "distance_km": 10.695614692256108
+  },
+  {
+   "source": "F16",
+   "target": "F18",
+   "weight": 0.1407048793122448,
+   "distance_km": 16.887344279233027
+  },
+  {
+   "source": "F16",
+   "target": "F21",
+   "weight": 0.1266509105801523,
+   "distance_km": 18.991945803166093
+  },
+  {
+   "source": "F16",
+   "target": "F29",
+   "weight": 0.20425991372609023,
+   "distance_km": 9.43277173079954
+  },
+  {
+   "source": "F17",
+   "target": "F27",
+   "weight": 0.09176818898689587,
+   "distance_km": 25.4353228788267
+  },
+  {
+   "source": "F18",
+   "target": "F21",
+   "weight": 0.06004967955380104,
+   "distance_km": 33.91719288256259
+  },
+  {
+   "source": "F18",
+   "target": "F29",
+   "weight": 0.09333337946814813,
+   "distance_km": 25.097080950284642
+  },
+  {
+   "source": "F19",
+   "target": "F23",
+   "weight": 0.06498994752067427,
+   "distance_km": 32.33598503818756
+  },
+  {
+   "source": "F19",
+   "target": "F25",
+   "weight": 0.09693969622054942,
+   "distance_km": 24.338855191795847
+  },
+  {
+   "source": "F20",
+   "target": "F22",
+   "weight": 0.04104890391626548,
+   "distance_km": 41.52535443924164
+  },
+  {
+   "source": "F21",
+   "target": "F29",
+   "weight": 0.20290609481166658,
+   "distance_km": 9.565771428722655
+  },
+  {
+   "source": "F22",
+   "target": "F28",
+   "weight": 0.11829390083319745,
+   "distance_km": 20.357192868785955
+  },
+  {
+   "source": "F23",
+   "target": "F25",
+   "weight": 0.21939597978333555,
+   "distance_km": 8.003072646587754
+  },
+  {
+   "source": "F23",
+   "target": "F27",
+   "weight": 0.12529782278469023,
+   "distance_km": 19.206767411716182
+  },
+  {
+   "source": "F24",
+   "target": "F26",
+   "weight": 0.12109025312067476,
+   "distance_km": 19.889913904023018
+  },
+  {
+   "source": "F25",
+   "target": "F27",
+   "weight": 0.11957292461343344,
+   "distance_km": 20.14210846519181
+  }
+ ]
+}

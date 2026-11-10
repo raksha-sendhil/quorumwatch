@@ -1,0 +1,184 @@
+{
+ "selected_signal_parameters": {
+  "D": 0.8,
+  "delta": 0.5,
+  "beta": 1.0,
+  "K": 5.0,
+  "n": 2.2,
+  "quorum": 0.25
+ },
+ "activation_threshold": {
+  "theta_on": 0.39298560709568103,
+  "val_false_per_year": 1.975108225108225,
+  "val_burden": 0.018019480519480522,
+  "feasible": true
+ },
+ "theta_off_ratio": 0.6,
+ "forest_alone_threshold": {
+  "h": 7.9906500317483795,
+  "val_false_per_year": 1.896103896103896,
+  "val_burden": 0.008008658008658008,
+  "feasible": true
+ },
+ "procedure": "Random search over the parameter grids, then one-at-a-time refinement around the best candidate. Each candidate's threshold meets the false-alert and alert-burden targets on validation null runs. Candidates are ranked by restricted delay on validation outbreak runs.",
+ "validation_seed_range": [
+  100000,
+  100039
+ ],
+ "test_seed_range": [
+  810000,
+  810099
+ ],
+ "full_config": {
+  "world": {
+   "seed": 20260401,
+   "n_facilities": 30,
+   "region_km": 100.0,
+   "min_separation_km": 7.0,
+   "baseline_median": 25.0,
+   "baseline_log_sigma": 0.7,
+   "baseline_min": 5.0,
+   "baseline_max": 150.0,
+   "season_amplitude": 0.2,
+   "season_peak_day": 15,
+   "dow_factors": [
+    1.1,
+    1.08,
+    1.04,
+    1.02,
+    1.0,
+    0.76,
+    0.6
+   ],
+   "facility_noise_sigma": 0.08,
+   "regional_noise_sigma": 0.03,
+   "regional_noise_rho": 0.7,
+   "history_days": 730,
+   "score_calibration_days": 365,
+   "knn": 4,
+   "length_scale_km": 20.0
+  },
+  "reporting": {
+   "reliable_delay_share": 0.5,
+   "reliable_max_delay": 2,
+   "reliable_spike_prob": 0.002,
+   "unreliable_missing_prob": 0.2,
+   "unreliable_delay_prob": 0.3,
+   "unreliable_max_delay": 5,
+   "unreliable_spike_prob": 0.04,
+   "spike_factor_low": 1.5,
+   "spike_factor_high": 3.5
+  },
+  "outbreak": {
+   "cluster_size": 6,
+   "peak_excess_low": 0.15,
+   "peak_excess_high": 0.3,
+   "ramp_days": 21,
+   "duration_days": 42,
+   "grace_days": 7,
+   "start_min": 28,
+   "start_max": 84,
+   "general": true,
+   "general_ramp_days": [
+    1,
+    7,
+    21
+   ],
+   "general_duration_days": [
+    14,
+    28,
+    42
+   ],
+   "general_cluster_sizes": [
+    3,
+    6,
+    10
+   ],
+   "general_peak_low": 0.15,
+   "general_peak_high": 0.75
+  },
+  "features": {
+   "window": 7,
+   "long_window": 14,
+   "z_clip": 8.0,
+   "production_tail": 0.5
+  },
+  "forest": {
+   "n_estimators": 200,
+   "max_samples": 512,
+   "max_features": 1.0,
+   "random_state": 7
+  },
+  "reliability": {
+   "ewma_alpha": 0.05,
+   "prior": 0.9,
+   "late_credit": 0.5,
+   "outlier_z": 4.0,
+   "outlier_penalty": 10.0,
+   "corroborate_z": 1.5,
+   "sustained_z": 2.0,
+   "min_reliability": 0.05,
+   "quench_gamma": 1.0
+  },
+  "experiment": {
+   "burn_in_days": 56,
+   "eval_days": 154,
+   "refractory_days": 14,
+   "theta_off_ratio": 0.6,
+   "min_quorum_count": 2,
+   "target_false_alerts_per_year": 2.0,
+   "matched_false_alert_rates": [
+    1.0,
+    2.0,
+    4.0
+   ],
+   "attribution_tolerance_days": 3,
+   "max_alert_burden": 0.05,
+   "scenarios": {
+    "high_reliability": 0.1,
+    "medium_reliability": 0.3,
+    "low_reliability": 0.5
+   },
+   "n_validation_seeds": 40,
+   "n_test_seeds": 100,
+   "validation_seed_base": 100000,
+   "test_seed_base": 810000,
+   "n_random_configs": 40,
+   "sweep_seed": 11,
+   "n_bootstrap": 2000,
+   "bootstrap_seed": 3,
+   "grid_D": [
+    0.05,
+    0.1,
+    0.2,
+    0.4,
+    0.8
+   ],
+   "grid_delta": [
+    0.1,
+    0.2,
+    0.35,
+    0.5
+   ],
+   "grid_beta": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    3.0
+   ],
+   "grid_K": [
+    1.0,
+    2.0,
+    3.0,
+    5.0
+   ],
+   "grid_quorum": [
+    0.25,
+    0.34,
+    0.5,
+    0.67
+   ]
+  }
+ }
+}

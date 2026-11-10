@@ -1,0 +1,4 @@
+scenario,mean_reliability_reliable_sites,mean_reliability_unreliable_sites
+high_reliability,0.9427549242973328,0.43030044436454773
+medium_reliability,0.9437546133995056,0.4228450059890747
+low_reliability,0.941129207611084,0.4269390404224396

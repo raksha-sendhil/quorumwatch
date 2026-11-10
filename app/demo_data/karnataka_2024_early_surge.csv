@@ -1,0 +1,1201 @@
+date,facility_id,cases
+2023-09-25,Bagalkote,2
+2023-09-25,Ballari,8
+2023-09-25,Belagavi,0
+2023-09-25,Bengaluru Rural,5
+2023-09-25,Bengaluru Urban,193
+2023-09-25,Bidar,4
+2023-09-25,Chamarajanagara,0
+2023-09-25,Chikkaballapura,0
+2023-09-25,Chikkamagaluru,2
+2023-09-25,Chitradurga,0
+2023-09-25,Dakshina Kannada,0
+2023-09-25,Davangere,8
+2023-09-25,Dharwad,0
+2023-09-25,Gadag,17
+2023-09-25,Hassan,2
+2023-09-25,Haveri,7
+2023-09-25,Kalaburagi,0
+2023-09-25,Kodagu,0
+2023-09-25,Kolar,8
+2023-09-25,Koppal,2
+2023-09-25,Mandya,19
+2023-09-25,Mysuru,6
+2023-09-25,Raichur,0
+2023-09-25,Ramanagara,2
+2023-09-25,Shivamogga,21
+2023-09-25,Tumakuru,14
+2023-09-25,Udupi,12
+2023-09-25,Uttara Kannada,0
+2023-09-25,Vijayapura,0
+2023-09-25,Yadgir,0
+2023-10-02,Bagalkote,2
+2023-10-02,Ballari,20
+2023-10-02,Belagavi,20
+2023-10-02,Bengaluru Rural,0
+2023-10-02,Bengaluru Urban,125
+2023-10-02,Bidar,9
+2023-10-02,Chamarajanagara,27
+2023-10-02,Chikkaballapura,15
+2023-10-02,Chikkamagaluru,8
+2023-10-02,Chitradurga,5
+2023-10-02,Dakshina Kannada,92
+2023-10-02,Davangere,3
+2023-10-02,Dharwad,41
+2023-10-02,Gadag,0
+2023-10-02,Hassan,0
+2023-10-02,Haveri,3
+2023-10-02,Kalaburagi,24
+2023-10-02,Kodagu,2
+2023-10-02,Kolar,0
+2023-10-02,Koppal,2
+2023-10-02,Mandya,17
+2023-10-02,Mysuru,34
+2023-10-02,Raichur,0
+2023-10-02,Ramanagara,0
+2023-10-02,Shivamogga,2
+2023-10-02,Tumakuru,10
+2023-10-02,Udupi,17
+2023-10-02,Uttara Kannada,21
+2023-10-02,Vijayapura,0
+2023-10-02,Yadgir,0
+2023-10-09,Bagalkote,4
+2023-10-09,Ballari,4
+2023-10-09,Belagavi,12
+2023-10-09,Bengaluru Rural,3
+2023-10-09,Bengaluru Urban,217
+2023-10-09,Bidar,6
+2023-10-09,Chamarajanagara,0
+2023-10-09,Chikkaballapura,9
+2023-10-09,Chikkamagaluru,8
+2023-10-09,Chitradurga,6
+2023-10-09,Dakshina Kannada,0
+2023-10-09,Davangere,7
+2023-10-09,Dharwad,10
+2023-10-09,Gadag,0
+2023-10-09,Hassan,4
+2023-10-09,Haveri,13
+2023-10-09,Kalaburagi,92
+2023-10-09,Kodagu,5
+2023-10-09,Kolar,24
+2023-10-09,Koppal,13
+2023-10-09,Mandya,6
+2023-10-09,Mysuru,20
+2023-10-09,Raichur,0
+2023-10-09,Ramanagara,3
+2023-10-09,Shivamogga,15
+2023-10-09,Tumakuru,8
+2023-10-09,Udupi,0
+2023-10-09,Uttara Kannada,0
+2023-10-09,Vijayapura,20
+2023-10-09,Yadgir,9
+2023-10-16,Bagalkote,6
+2023-10-16,Ballari,8
+2023-10-16,Belagavi,0
+2023-10-16,Bengaluru Rural,2
+2023-10-16,Bengaluru Urban,200
+2023-10-16,Bidar,10
+2023-10-16,Chamarajanagara,6
+2023-10-16,Chikkaballapura,9
+2023-10-16,Chikkamagaluru,24
+2023-10-16,Chitradurga,11
+2023-10-16,Dakshina Kannada,41
+2023-10-16,Davangere,4
+2023-10-16,Dharwad,0
+2023-10-16,Gadag,7
+2023-10-16,Hassan,21
+2023-10-16,Haveri,13
+2023-10-16,Kalaburagi,102
+2023-10-16,Kodagu,0
+2023-10-16,Kolar,7
+2023-10-16,Koppal,6
+2023-10-16,Mandya,10
+2023-10-16,Mysuru,9
+2023-10-16,Raichur,0
+2023-10-16,Ramanagara,0
+2023-10-16,Shivamogga,0
+2023-10-16,Tumakuru,49
+2023-10-16,Udupi,0
+2023-10-16,Uttara Kannada,0
+2023-10-16,Vijayapura,0
+2023-10-16,Yadgir,10
+2023-10-23,Bagalkote,5
+2023-10-23,Ballari,15
+2023-10-23,Belagavi,9
+2023-10-23,Bengaluru Rural,0
+2023-10-23,Bengaluru Urban,308
+2023-10-23,Bidar,7
+2023-10-23,Chamarajanagara,11
+2023-10-23,Chikkaballapura,10
+2023-10-23,Chikkamagaluru,8
+2023-10-23,Chitradurga,5
+2023-10-23,Dakshina Kannada,0
+2023-10-23,Davangere,5
+2023-10-23,Dharwad,0
+2023-10-23,Gadag,4
+2023-10-23,Hassan,7
+2023-10-23,Haveri,1
+2023-10-23,Kalaburagi,0
+2023-10-23,Kodagu,10
+2023-10-23,Kolar,0
+2023-10-23,Koppal,0
+2023-10-23,Mandya,0
+2023-10-23,Mysuru,18
+2023-10-23,Raichur,11
+2023-10-23,Ramanagara,11
+2023-10-23,Shivamogga,38
+2023-10-23,Tumakuru,0
+2023-10-23,Udupi,8
+2023-10-23,Uttara Kannada,0
+2023-10-23,Vijayapura,13
+2023-10-23,Yadgir,0
+2023-10-30,Bagalkote,1
+2023-10-30,Ballari,15
+2023-10-30,Belagavi,0
+2023-10-30,Bengaluru Rural,0
+2023-10-30,Bengaluru Urban,120
+2023-10-30,Bidar,18
+2023-10-30,Chamarajanagara,4
+2023-10-30,Chikkaballapura,7
+2023-10-30,Chikkamagaluru,4
+2023-10-30,Chitradurga,3
+2023-10-30,Dakshina Kannada,71
+2023-10-30,Davangere,7
+2023-10-30,Dharwad,0
+2023-10-30,Gadag,0
+2023-10-30,Hassan,3
+2023-10-30,Haveri,7
+2023-10-30,Kalaburagi,113
+2023-10-30,Kodagu,0
+2023-10-30,Kolar,0
+2023-10-30,Koppal,3
+2023-10-30,Mandya,10
+2023-10-30,Mysuru,12
+2023-10-30,Raichur,3
+2023-10-30,Ramanagara,8
+2023-10-30,Shivamogga,18
+2023-10-30,Tumakuru,27
+2023-10-30,Udupi,0
+2023-10-30,Uttara Kannada,0
+2023-10-30,Vijayapura,19
+2023-10-30,Yadgir,2
+2023-11-06,Bagalkote,3
+2023-11-06,Ballari,7
+2023-11-06,Belagavi,0
+2023-11-06,Bengaluru Rural,0
+2023-11-06,Bengaluru Urban,224
+2023-11-06,Bidar,11
+2023-11-06,Chamarajanagara,0
+2023-11-06,Chikkaballapura,0
+2023-11-06,Chikkamagaluru,7
+2023-11-06,Chitradurga,25
+2023-11-06,Dakshina Kannada,0
+2023-11-06,Davangere,9
+2023-11-06,Dharwad,14
+2023-11-06,Gadag,0
+2023-11-06,Hassan,6
+2023-11-06,Haveri,4
+2023-11-06,Kalaburagi,0
+2023-11-06,Kodagu,15
+2023-11-06,Kolar,10
+2023-11-06,Koppal,8
+2023-11-06,Mandya,24
+2023-11-06,Mysuru,12
+2023-11-06,Raichur,0
+2023-11-06,Ramanagara,0
+2023-11-06,Shivamogga,7
+2023-11-06,Tumakuru,13
+2023-11-06,Udupi,7
+2023-11-06,Uttara Kannada,27
+2023-11-06,Vijayapura,21
+2023-11-06,Yadgir,0
+2023-11-13,Bagalkote,2
+2023-11-13,Ballari,5
+2023-11-13,Belagavi,19
+2023-11-13,Bengaluru Rural,5
+2023-11-13,Bengaluru Urban,128
+2023-11-13,Bidar,9
+2023-11-13,Chamarajanagara,10
+2023-11-13,Chikkaballapura,0
+2023-11-13,Chikkamagaluru,1
+2023-11-13,Chitradurga,0
+2023-11-13,Dakshina Kannada,12
+2023-11-13,Davangere,6
+2023-11-13,Dharwad,0
+2023-11-13,Gadag,4
+2023-11-13,Hassan,18
+2023-11-13,Haveri,1
+2023-11-13,Kalaburagi,27
+2023-11-13,Kodagu,0
+2023-11-13,Kolar,7
+2023-11-13,Koppal,4
+2023-11-13,Mandya,7
+2023-11-13,Mysuru,11
+2023-11-13,Raichur,0
+2023-11-13,Ramanagara,0
+2023-11-13,Shivamogga,9
+2023-11-13,Tumakuru,17
+2023-11-13,Udupi,4
+2023-11-13,Uttara Kannada,0
+2023-11-13,Vijayapura,13
+2023-11-13,Yadgir,0
+2023-11-20,Bagalkote,8
+2023-11-20,Ballari,4
+2023-11-20,Belagavi,0
+2023-11-20,Bengaluru Rural,0
+2023-11-20,Bengaluru Urban,194
+2023-11-20,Bidar,3
+2023-11-20,Chamarajanagara,0
+2023-11-20,Chikkaballapura,43
+2023-11-20,Chikkamagaluru,2
+2023-11-20,Chitradurga,37
+2023-11-20,Dakshina Kannada,19
+2023-11-20,Davangere,7
+2023-11-20,Dharwad,16
+2023-11-20,Gadag,0
+2023-11-20,Hassan,0
+2023-11-20,Haveri,6
+2023-11-20,Kalaburagi,50
+2023-11-20,Kodagu,1
+2023-11-20,Kolar,0
+2023-11-20,Koppal,9
+2023-11-20,Mandya,10
+2023-11-20,Mysuru,8
+2023-11-20,Raichur,4
+2023-11-20,Ramanagara,11
+2023-11-20,Shivamogga,16
+2023-11-20,Tumakuru,7
+2023-11-20,Udupi,0
+2023-11-20,Uttara Kannada,0
+2023-11-20,Vijayapura,4
+2023-11-20,Yadgir,0
+2023-11-27,Bagalkote,1
+2023-11-27,Ballari,6
+2023-11-27,Belagavi,26
+2023-11-27,Bengaluru Rural,1
+2023-11-27,Bengaluru Urban,336
+2023-11-27,Bidar,7
+2023-11-27,Chamarajanagara,26
+2023-11-27,Chikkaballapura,0
+2023-11-27,Chikkamagaluru,8
+2023-11-27,Chitradurga,12
+2023-11-27,Dakshina Kannada,12
+2023-11-27,Davangere,0
+2023-11-27,Dharwad,0
+2023-11-27,Gadag,9
+2023-11-27,Hassan,5
+2023-11-27,Haveri,5
+2023-11-27,Kalaburagi,0
+2023-11-27,Kodagu,0
+2023-11-27,Kolar,13
+2023-11-27,Koppal,2
+2023-11-27,Mandya,0
+2023-11-27,Mysuru,21
+2023-11-27,Raichur,4
+2023-11-27,Ramanagara,3
+2023-11-27,Shivamogga,30
+2023-11-27,Tumakuru,7
+2023-11-27,Udupi,3
+2023-11-27,Uttara Kannada,0
+2023-11-27,Vijayapura,9
+2023-11-27,Yadgir,7
+2023-12-04,Bagalkote,6
+2023-12-04,Ballari,1
+2023-12-04,Belagavi,0
+2023-12-04,Bengaluru Rural,3
+2023-12-04,Bengaluru Urban,204
+2023-12-04,Bidar,0
+2023-12-04,Chamarajanagara,0
+2023-12-04,Chikkaballapura,17
+2023-12-04,Chikkamagaluru,0
+2023-12-04,Chitradurga,8
+2023-12-04,Dakshina Kannada,35
+2023-12-04,Davangere,6
+2023-12-04,Dharwad,7
+2023-12-04,Gadag,0
+2023-12-04,Hassan,0
+2023-12-04,Haveri,0
+2023-12-04,Kalaburagi,35
+2023-12-04,Kodagu,4
+2023-12-04,Kolar,0
+2023-12-04,Koppal,0
+2023-12-04,Mandya,32
+2023-12-04,Mysuru,15
+2023-12-04,Raichur,2
+2023-12-04,Ramanagara,13
+2023-12-04,Shivamogga,5
+2023-12-04,Tumakuru,4
+2023-12-04,Udupi,4
+2023-12-04,Uttara Kannada,15
+2023-12-04,Vijayapura,4
+2023-12-04,Yadgir,0
+2023-12-11,Bagalkote,5
+2023-12-11,Ballari,7
+2023-12-11,Belagavi,8
+2023-12-11,Bengaluru Rural,1
+2023-12-11,Bengaluru Urban,219
+2023-12-11,Bidar,4
+2023-12-11,Chamarajanagara,7
+2023-12-11,Chikkaballapura,17
+2023-12-11,Chikkamagaluru,5
+2023-12-11,Chitradurga,5
+2023-12-11,Dakshina Kannada,7
+2023-12-11,Davangere,12
+2023-12-11,Dharwad,0
+2023-12-11,Gadag,9
+2023-12-11,Hassan,11
+2023-12-11,Haveri,4
+2023-12-11,Kalaburagi,32
+2023-12-11,Kodagu,0
+2023-12-11,Kolar,0
+2023-12-11,Koppal,7
+2023-12-11,Mandya,24
+2023-12-11,Mysuru,8
+2023-12-11,Raichur,0
+2023-12-11,Ramanagara,0
+2023-12-11,Shivamogga,14
+2023-12-11,Tumakuru,10
+2023-12-11,Udupi,0
+2023-12-11,Uttara Kannada,0
+2023-12-11,Vijayapura,0
+2023-12-11,Yadgir,0
+2023-12-18,Bagalkote,3
+2023-12-18,Ballari,0
+2023-12-18,Belagavi,0
+2023-12-18,Bengaluru Rural,0
+2023-12-18,Bengaluru Urban,271
+2023-12-18,Bidar,2
+2023-12-18,Chamarajanagara,0
+2023-12-18,Chikkaballapura,0
+2023-12-18,Chikkamagaluru,4
+2023-12-18,Chitradurga,38
+2023-12-18,Dakshina Kannada,0
+2023-12-18,Davangere,0
+2023-12-18,Dharwad,3
+2023-12-18,Gadag,0
+2023-12-18,Hassan,19
+2023-12-18,Haveri,0
+2023-12-18,Kalaburagi,0
+2023-12-18,Kodagu,4
+2023-12-18,Kolar,10
+2023-12-18,Koppal,7
+2023-12-18,Mandya,10
+2023-12-18,Mysuru,10
+2023-12-18,Raichur,0
+2023-12-18,Ramanagara,0
+2023-12-18,Shivamogga,0
+2023-12-18,Tumakuru,9
+2023-12-18,Udupi,0
+2023-12-18,Uttara Kannada,0
+2023-12-18,Vijayapura,31
+2023-12-18,Yadgir,0
+2023-12-25,Bagalkote,1
+2023-12-25,Ballari,3
+2023-12-25,Belagavi,6
+2023-12-25,Bengaluru Rural,0
+2023-12-25,Bengaluru Urban,330
+2023-12-25,Bidar,0
+2023-12-25,Chamarajanagara,11
+2023-12-25,Chikkaballapura,14
+2023-12-25,Chikkamagaluru,11
+2023-12-25,Chitradurga,5
+2023-12-25,Dakshina Kannada,33
+2023-12-25,Davangere,17
+2023-12-25,Dharwad,0
+2023-12-25,Gadag,4
+2023-12-25,Hassan,0
+2023-12-25,Haveri,7
+2023-12-25,Kalaburagi,31
+2023-12-25,Kodagu,1
+2023-12-25,Kolar,0
+2023-12-25,Koppal,4
+2023-12-25,Mandya,57
+2023-12-25,Mysuru,24
+2023-12-25,Raichur,0
+2023-12-25,Ramanagara,13
+2023-12-25,Shivamogga,13
+2023-12-25,Tumakuru,13
+2023-12-25,Udupi,0
+2023-12-25,Uttara Kannada,0
+2023-12-25,Vijayapura,15
+2023-12-25,Yadgir,0
+2024-01-01,Bagalkote,0
+2024-01-01,Ballari,0
+2024-01-01,Belagavi,0
+2024-01-01,Bengaluru Rural,0
+2024-01-01,Bengaluru Urban,0
+2024-01-01,Bidar,0
+2024-01-01,Chamarajanagara,0
+2024-01-01,Chikkaballapura,0
+2024-01-01,Chikkamagaluru,0
+2024-01-01,Chitradurga,0
+2024-01-01,Dakshina Kannada,0
+2024-01-01,Davangere,0
+2024-01-01,Dharwad,0
+2024-01-01,Gadag,0
+2024-01-01,Hassan,0
+2024-01-01,Haveri,0
+2024-01-01,Kalaburagi,0
+2024-01-01,Kodagu,0
+2024-01-01,Kolar,0
+2024-01-01,Koppal,0
+2024-01-01,Mandya,0
+2024-01-01,Mysuru,0
+2024-01-01,Raichur,0
+2024-01-01,Ramanagara,0
+2024-01-01,Shivamogga,0
+2024-01-01,Tumakuru,0
+2024-01-01,Udupi,0
+2024-01-01,Uttara Kannada,0
+2024-01-01,Vijayapura,0
+2024-01-01,Yadgir,0
+2024-01-08,Bagalkote,0
+2024-01-08,Ballari,0
+2024-01-08,Belagavi,0
+2024-01-08,Bengaluru Rural,0
+2024-01-08,Bengaluru Urban,0
+2024-01-08,Bidar,0
+2024-01-08,Chamarajanagara,0
+2024-01-08,Chikkaballapura,0
+2024-01-08,Chikkamagaluru,0
+2024-01-08,Chitradurga,0
+2024-01-08,Dakshina Kannada,0
+2024-01-08,Davangere,0
+2024-01-08,Dharwad,0
+2024-01-08,Gadag,0
+2024-01-08,Hassan,0
+2024-01-08,Haveri,0
+2024-01-08,Kalaburagi,0
+2024-01-08,Kodagu,0
+2024-01-08,Kolar,0
+2024-01-08,Koppal,0
+2024-01-08,Mandya,0
+2024-01-08,Mysuru,0
+2024-01-08,Raichur,0
+2024-01-08,Ramanagara,0
+2024-01-08,Shivamogga,0
+2024-01-08,Tumakuru,0
+2024-01-08,Udupi,0
+2024-01-08,Uttara Kannada,0
+2024-01-08,Vijayapura,0
+2024-01-08,Yadgir,0
+2024-01-15,Bagalkote,4
+2024-01-15,Ballari,4
+2024-01-15,Belagavi,0
+2024-01-15,Bengaluru Rural,0
+2024-01-15,Bengaluru Urban,0
+2024-01-15,Bidar,2
+2024-01-15,Chamarajanagara,0
+2024-01-15,Chikkaballapura,0
+2024-01-15,Chikkamagaluru,1
+2024-01-15,Chitradurga,25
+2024-01-15,Dakshina Kannada,0
+2024-01-15,Davangere,11
+2024-01-15,Dharwad,0
+2024-01-15,Gadag,1
+2024-01-15,Hassan,2
+2024-01-15,Haveri,10
+2024-01-15,Kalaburagi,0
+2024-01-15,Kodagu,0
+2024-01-15,Kolar,0
+2024-01-15,Koppal,16
+2024-01-15,Mandya,0
+2024-01-15,Mysuru,15
+2024-01-15,Raichur,0
+2024-01-15,Ramanagara,3
+2024-01-15,Shivamogga,9
+2024-01-15,Tumakuru,8
+2024-01-15,Udupi,0
+2024-01-15,Uttara Kannada,0
+2024-01-15,Vijayapura,0
+2024-01-15,Yadgir,0
+2024-01-22,Bagalkote,0
+2024-01-22,Ballari,0
+2024-01-22,Belagavi,0
+2024-01-22,Bengaluru Rural,2
+2024-01-22,Bengaluru Urban,0
+2024-01-22,Bidar,0
+2024-01-22,Chamarajanagara,0
+2024-01-22,Chikkaballapura,0
+2024-01-22,Chikkamagaluru,5
+2024-01-22,Chitradurga,12
+2024-01-22,Dakshina Kannada,0
+2024-01-22,Davangere,6
+2024-01-22,Dharwad,0
+2024-01-22,Gadag,1
+2024-01-22,Hassan,6
+2024-01-22,Haveri,0
+2024-01-22,Kalaburagi,0
+2024-01-22,Kodagu,1
+2024-01-22,Kolar,4
+2024-01-22,Koppal,2
+2024-01-22,Mandya,15
+2024-01-22,Mysuru,0
+2024-01-22,Raichur,0
+2024-01-22,Ramanagara,3
+2024-01-22,Shivamogga,0
+2024-01-22,Tumakuru,6
+2024-01-22,Udupi,0
+2024-01-22,Uttara Kannada,0
+2024-01-22,Vijayapura,24
+2024-01-22,Yadgir,0
+2024-01-29,Bagalkote,3
+2024-01-29,Ballari,5
+2024-01-29,Belagavi,17
+2024-01-29,Bengaluru Rural,0
+2024-01-29,Bengaluru Urban,1
+2024-01-29,Bidar,0
+2024-01-29,Chamarajanagara,0
+2024-01-29,Chikkaballapura,17
+2024-01-29,Chikkamagaluru,0
+2024-01-29,Chitradurga,9
+2024-01-29,Dakshina Kannada,0
+2024-01-29,Davangere,6
+2024-01-29,Dharwad,0
+2024-01-29,Gadag,0
+2024-01-29,Hassan,15
+2024-01-29,Haveri,0
+2024-01-29,Kalaburagi,0
+2024-01-29,Kodagu,0
+2024-01-29,Kolar,0
+2024-01-29,Koppal,11
+2024-01-29,Mandya,32
+2024-01-29,Mysuru,0
+2024-01-29,Raichur,4
+2024-01-29,Ramanagara,0
+2024-01-29,Shivamogga,16
+2024-01-29,Tumakuru,12
+2024-01-29,Udupi,0
+2024-01-29,Uttara Kannada,0
+2024-01-29,Vijayapura,3
+2024-01-29,Yadgir,0
+2024-02-05,Bagalkote,0
+2024-02-05,Ballari,1
+2024-02-05,Belagavi,0
+2024-02-05,Bengaluru Rural,0
+2024-02-05,Bengaluru Urban,0
+2024-02-05,Bidar,1
+2024-02-05,Chamarajanagara,7
+2024-02-05,Chikkaballapura,0
+2024-02-05,Chikkamagaluru,1
+2024-02-05,Chitradurga,15
+2024-02-05,Dakshina Kannada,34
+2024-02-05,Davangere,3
+2024-02-05,Dharwad,4
+2024-02-05,Gadag,0
+2024-02-05,Hassan,9
+2024-02-05,Haveri,11
+2024-02-05,Kalaburagi,0
+2024-02-05,Kodagu,0
+2024-02-05,Kolar,2
+2024-02-05,Koppal,7
+2024-02-05,Mandya,0
+2024-02-05,Mysuru,0
+2024-02-05,Raichur,2
+2024-02-05,Ramanagara,8
+2024-02-05,Shivamogga,18
+2024-02-05,Tumakuru,16
+2024-02-05,Udupi,0
+2024-02-05,Uttara Kannada,0
+2024-02-05,Vijayapura,7
+2024-02-05,Yadgir,0
+2024-02-12,Bagalkote,6
+2024-02-12,Ballari,6
+2024-02-12,Belagavi,10
+2024-02-12,Bengaluru Rural,0
+2024-02-12,Bengaluru Urban,250
+2024-02-12,Bidar,0
+2024-02-12,Chamarajanagara,0
+2024-02-12,Chikkaballapura,0
+2024-02-12,Chikkamagaluru,6
+2024-02-12,Chitradurga,20
+2024-02-12,Dakshina Kannada,1
+2024-02-12,Davangere,4
+2024-02-12,Dharwad,0
+2024-02-12,Gadag,5
+2024-02-12,Hassan,2
+2024-02-12,Haveri,2
+2024-02-12,Kalaburagi,44
+2024-02-12,Kodagu,0
+2024-02-12,Kolar,0
+2024-02-12,Koppal,11
+2024-02-12,Mandya,18
+2024-02-12,Mysuru,0
+2024-02-12,Raichur,0
+2024-02-12,Ramanagara,0
+2024-02-12,Shivamogga,4
+2024-02-12,Tumakuru,7
+2024-02-12,Udupi,14
+2024-02-12,Uttara Kannada,0
+2024-02-12,Vijayapura,10
+2024-02-12,Yadgir,0
+2024-02-19,Bagalkote,0
+2024-02-19,Ballari,2
+2024-02-19,Belagavi,0
+2024-02-19,Bengaluru Rural,1
+2024-02-19,Bengaluru Urban,0
+2024-02-19,Bidar,0
+2024-02-19,Chamarajanagara,0
+2024-02-19,Chikkaballapura,7
+2024-02-19,Chikkamagaluru,1
+2024-02-19,Chitradurga,13
+2024-02-19,Dakshina Kannada,7
+2024-02-19,Davangere,5
+2024-02-19,Dharwad,0
+2024-02-19,Gadag,0
+2024-02-19,Hassan,4
+2024-02-19,Haveri,0
+2024-02-19,Kalaburagi,0
+2024-02-19,Kodagu,7
+2024-02-19,Kolar,0
+2024-02-19,Koppal,9
+2024-02-19,Mandya,0
+2024-02-19,Mysuru,78
+2024-02-19,Raichur,0
+2024-02-19,Ramanagara,4
+2024-02-19,Shivamogga,31
+2024-02-19,Tumakuru,16
+2024-02-19,Udupi,0
+2024-02-19,Uttara Kannada,0
+2024-02-19,Vijayapura,8
+2024-02-19,Yadgir,1
+2024-02-26,Bagalkote,1
+2024-02-26,Ballari,9
+2024-02-26,Belagavi,12
+2024-02-26,Bengaluru Rural,0
+2024-02-26,Bengaluru Urban,2
+2024-02-26,Bidar,8
+2024-02-26,Chamarajanagara,3
+2024-02-26,Chikkaballapura,6
+2024-02-26,Chikkamagaluru,10
+2024-02-26,Chitradurga,9
+2024-02-26,Dakshina Kannada,40
+2024-02-26,Davangere,3
+2024-02-26,Dharwad,0
+2024-02-26,Gadag,5
+2024-02-26,Hassan,13
+2024-02-26,Haveri,2
+2024-02-26,Kalaburagi,0
+2024-02-26,Kodagu,0
+2024-02-26,Kolar,0
+2024-02-26,Koppal,4
+2024-02-26,Mandya,8
+2024-02-26,Mysuru,0
+2024-02-26,Raichur,0
+2024-02-26,Ramanagara,0
+2024-02-26,Shivamogga,12
+2024-02-26,Tumakuru,4
+2024-02-26,Udupi,7
+2024-02-26,Uttara Kannada,0
+2024-02-26,Vijayapura,12
+2024-02-26,Yadgir,0
+2024-03-04,Bagalkote,2
+2024-03-04,Ballari,0
+2024-03-04,Belagavi,0
+2024-03-04,Bengaluru Rural,0
+2024-03-04,Bengaluru Urban,0
+2024-03-04,Bidar,0
+2024-03-04,Chamarajanagara,0
+2024-03-04,Chikkaballapura,0
+2024-03-04,Chikkamagaluru,0
+2024-03-04,Chitradurga,16
+2024-03-04,Dakshina Kannada,0
+2024-03-04,Davangere,7
+2024-03-04,Dharwad,12
+2024-03-04,Gadag,0
+2024-03-04,Hassan,4
+2024-03-04,Haveri,0
+2024-03-04,Kalaburagi,3
+2024-03-04,Kodagu,4
+2024-03-04,Kolar,5
+2024-03-04,Koppal,0
+2024-03-04,Mandya,0
+2024-03-04,Mysuru,34
+2024-03-04,Raichur,0
+2024-03-04,Ramanagara,6
+2024-03-04,Shivamogga,0
+2024-03-04,Tumakuru,0
+2024-03-04,Udupi,9
+2024-03-04,Uttara Kannada,14
+2024-03-04,Vijayapura,6
+2024-03-04,Yadgir,0
+2024-03-11,Bagalkote,1
+2024-03-11,Ballari,4
+2024-03-11,Belagavi,0
+2024-03-11,Bengaluru Rural,0
+2024-03-11,Bengaluru Urban,4
+2024-03-11,Bidar,1
+2024-03-11,Chamarajanagara,3
+2024-03-11,Chikkaballapura,4
+2024-03-11,Chikkamagaluru,0
+2024-03-11,Chitradurga,8
+2024-03-11,Dakshina Kannada,17
+2024-03-11,Davangere,0
+2024-03-11,Dharwad,0
+2024-03-11,Gadag,3
+2024-03-11,Hassan,4
+2024-03-11,Haveri,0
+2024-03-11,Kalaburagi,0
+2024-03-11,Kodagu,0
+2024-03-11,Kolar,0
+2024-03-11,Koppal,0
+2024-03-11,Mandya,13
+2024-03-11,Mysuru,0
+2024-03-11,Raichur,0
+2024-03-11,Ramanagara,0
+2024-03-11,Shivamogga,8
+2024-03-11,Tumakuru,2
+2024-03-11,Udupi,2
+2024-03-11,Uttara Kannada,8
+2024-03-11,Vijayapura,7
+2024-03-11,Yadgir,0
+2024-03-18,Bagalkote,2
+2024-03-18,Ballari,3
+2024-03-18,Belagavi,8
+2024-03-18,Bengaluru Rural,1
+2024-03-18,Bengaluru Urban,143
+2024-03-18,Bidar,0
+2024-03-18,Chamarajanagara,8
+2024-03-18,Chikkaballapura,0
+2024-03-18,Chikkamagaluru,5
+2024-03-18,Chitradurga,10
+2024-03-18,Dakshina Kannada,0
+2024-03-18,Davangere,8
+2024-03-18,Dharwad,13
+2024-03-18,Gadag,0
+2024-03-18,Hassan,9
+2024-03-18,Haveri,11
+2024-03-18,Kalaburagi,17
+2024-03-18,Kodagu,0
+2024-03-18,Kolar,0
+2024-03-18,Koppal,11
+2024-03-18,Mandya,4
+2024-03-18,Mysuru,0
+2024-03-18,Raichur,4
+2024-03-18,Ramanagara,1
+2024-03-18,Shivamogga,7
+2024-03-18,Tumakuru,13
+2024-03-18,Udupi,9
+2024-03-18,Uttara Kannada,2
+2024-03-18,Vijayapura,7
+2024-03-18,Yadgir,0
+2024-03-25,Bagalkote,2
+2024-03-25,Ballari,4
+2024-03-25,Belagavi,9
+2024-03-25,Bengaluru Rural,0
+2024-03-25,Bengaluru Urban,144
+2024-03-25,Bidar,4
+2024-03-25,Chamarajanagara,0
+2024-03-25,Chikkaballapura,7
+2024-03-25,Chikkamagaluru,0
+2024-03-25,Chitradurga,9
+2024-03-25,Dakshina Kannada,7
+2024-03-25,Davangere,14
+2024-03-25,Dharwad,0
+2024-03-25,Gadag,4
+2024-03-25,Hassan,8
+2024-03-25,Haveri,1
+2024-03-25,Kalaburagi,0
+2024-03-25,Kodagu,7
+2024-03-25,Kolar,0
+2024-03-25,Koppal,1
+2024-03-25,Mandya,6
+2024-03-25,Mysuru,37
+2024-03-25,Raichur,0
+2024-03-25,Ramanagara,1
+2024-03-25,Shivamogga,27
+2024-03-25,Tumakuru,6
+2024-03-25,Udupi,3
+2024-03-25,Uttara Kannada,1
+2024-03-25,Vijayapura,8
+2024-03-25,Yadgir,0
+2024-04-01,Bagalkote,0
+2024-04-01,Ballari,0
+2024-04-01,Belagavi,0
+2024-04-01,Bengaluru Rural,1
+2024-04-01,Bengaluru Urban,0
+2024-04-01,Bidar,0
+2024-04-01,Chamarajanagara,11
+2024-04-01,Chikkaballapura,0
+2024-04-01,Chikkamagaluru,0
+2024-04-01,Chitradurga,6
+2024-04-01,Dakshina Kannada,2
+2024-04-01,Davangere,0
+2024-04-01,Dharwad,9
+2024-04-01,Gadag,0
+2024-04-01,Hassan,0
+2024-04-01,Haveri,0
+2024-04-01,Kalaburagi,0
+2024-04-01,Kodagu,1
+2024-04-01,Kolar,10
+2024-04-01,Koppal,0
+2024-04-01,Mandya,0
+2024-04-01,Mysuru,0
+2024-04-01,Raichur,0
+2024-04-01,Ramanagara,1
+2024-04-01,Shivamogga,11
+2024-04-01,Tumakuru,0
+2024-04-01,Udupi,7
+2024-04-01,Uttara Kannada,4
+2024-04-01,Vijayapura,0
+2024-04-01,Yadgir,0
+2024-04-08,Bagalkote,3
+2024-04-08,Ballari,6
+2024-04-08,Belagavi,0
+2024-04-08,Bengaluru Rural,0
+2024-04-08,Bengaluru Urban,1
+2024-04-08,Bidar,0
+2024-04-08,Chamarajanagara,0
+2024-04-08,Chikkaballapura,2
+2024-04-08,Chikkamagaluru,3
+2024-04-08,Chitradurga,4
+2024-04-08,Dakshina Kannada,4
+2024-04-08,Davangere,3
+2024-04-08,Dharwad,0
+2024-04-08,Gadag,0
+2024-04-08,Hassan,7
+2024-04-08,Haveri,5
+2024-04-08,Kalaburagi,0
+2024-04-08,Kodagu,0
+2024-04-08,Kolar,0
+2024-04-08,Koppal,0
+2024-04-08,Mandya,0
+2024-04-08,Mysuru,0
+2024-04-08,Raichur,0
+2024-04-08,Ramanagara,0
+2024-04-08,Shivamogga,3
+2024-04-08,Tumakuru,1
+2024-04-08,Udupi,2
+2024-04-08,Uttara Kannada,1
+2024-04-08,Vijayapura,4
+2024-04-08,Yadgir,0
+2024-04-15,Bagalkote,0
+2024-04-15,Ballari,0
+2024-04-15,Belagavi,0
+2024-04-15,Bengaluru Rural,0
+2024-04-15,Bengaluru Urban,0
+2024-04-15,Bidar,1
+2024-04-15,Chamarajanagara,0
+2024-04-15,Chikkaballapura,0
+2024-04-15,Chikkamagaluru,1
+2024-04-15,Chitradurga,6
+2024-04-15,Dakshina Kannada,0
+2024-04-15,Davangere,2
+2024-04-15,Dharwad,0
+2024-04-15,Gadag,0
+2024-04-15,Hassan,0
+2024-04-15,Haveri,0
+2024-04-15,Kalaburagi,0
+2024-04-15,Kodagu,2
+2024-04-15,Kolar,0
+2024-04-15,Koppal,0
+2024-04-15,Mandya,0
+2024-04-15,Mysuru,0
+2024-04-15,Raichur,0
+2024-04-15,Ramanagara,0
+2024-04-15,Shivamogga,0
+2024-04-15,Tumakuru,0
+2024-04-15,Udupi,3
+2024-04-15,Uttara Kannada,0
+2024-04-15,Vijayapura,0
+2024-04-15,Yadgir,0
+2024-04-22,Bagalkote,0
+2024-04-22,Ballari,8
+2024-04-22,Belagavi,0
+2024-04-22,Bengaluru Rural,1
+2024-04-22,Bengaluru Urban,0
+2024-04-22,Bidar,2
+2024-04-22,Chamarajanagara,0
+2024-04-22,Chikkaballapura,0
+2024-04-22,Chikkamagaluru,8
+2024-04-22,Chitradurga,0
+2024-04-22,Dakshina Kannada,10
+2024-04-22,Davangere,0
+2024-04-22,Dharwad,0
+2024-04-22,Gadag,2
+2024-04-22,Hassan,7
+2024-04-22,Haveri,7
+2024-04-22,Kalaburagi,0
+2024-04-22,Kodagu,0
+2024-04-22,Kolar,0
+2024-04-22,Koppal,0
+2024-04-22,Mandya,9
+2024-04-22,Mysuru,0
+2024-04-22,Raichur,0
+2024-04-22,Ramanagara,0
+2024-04-22,Shivamogga,12
+2024-04-22,Tumakuru,13
+2024-04-22,Udupi,4
+2024-04-22,Uttara Kannada,1
+2024-04-22,Vijayapura,10
+2024-04-22,Yadgir,0
+2024-04-29,Bagalkote,3
+2024-04-29,Ballari,1
+2024-04-29,Belagavi,19
+2024-04-29,Bengaluru Rural,
+2024-04-29,Bengaluru Urban,0
+2024-04-29,Bidar,2
+2024-04-29,Chamarajanagara,0
+2024-04-29,Chikkaballapura,5
+2024-04-29,Chikkamagaluru,6
+2024-04-29,Chitradurga,13
+2024-04-29,Dakshina Kannada,5
+2024-04-29,Davangere,7
+2024-04-29,Dharwad,33
+2024-04-29,Gadag,0
+2024-04-29,Hassan,2
+2024-04-29,Haveri,19
+2024-04-29,Kalaburagi,11
+2024-04-29,Kodagu,4
+2024-04-29,Kolar,0
+2024-04-29,Koppal,3
+2024-04-29,Mandya,9
+2024-04-29,Mysuru,82
+2024-04-29,Raichur,12
+2024-04-29,Ramanagara,4
+2024-04-29,Shivamogga,3
+2024-04-29,Tumakuru,1
+2024-04-29,Udupi,2
+2024-04-29,Uttara Kannada,4
+2024-04-29,Vijayapura,7
+2024-04-29,Yadgir,
+2024-05-06,Bagalkote,0
+2024-05-06,Ballari,2
+2024-05-06,Belagavi,1
+2024-05-06,Bengaluru Rural,
+2024-05-06,Bengaluru Urban,2
+2024-05-06,Bidar,0
+2024-05-06,Chamarajanagara,0
+2024-05-06,Chikkaballapura,0
+2024-05-06,Chikkamagaluru,2
+2024-05-06,Chitradurga,5
+2024-05-06,Dakshina Kannada,5
+2024-05-06,Davangere,2
+2024-05-06,Dharwad,0
+2024-05-06,Gadag,0
+2024-05-06,Hassan,9
+2024-05-06,Haveri,0
+2024-05-06,Kalaburagi,21
+2024-05-06,Kodagu,7
+2024-05-06,Kolar,7
+2024-05-06,Koppal,0
+2024-05-06,Mandya,3
+2024-05-06,Mysuru,0
+2024-05-06,Raichur,0
+2024-05-06,Ramanagara,1
+2024-05-06,Shivamogga,7
+2024-05-06,Tumakuru,5
+2024-05-06,Udupi,8
+2024-05-06,Uttara Kannada,1
+2024-05-06,Vijayapura,2
+2024-05-06,Yadgir,
+2024-05-13,Bagalkote,4
+2024-05-13,Ballari,3
+2024-05-13,Belagavi,0
+2024-05-13,Bengaluru Rural,
+2024-05-13,Bengaluru Urban,1
+2024-05-13,Bidar,1
+2024-05-13,Chamarajanagara,3
+2024-05-13,Chikkaballapura,3
+2024-05-13,Chikkamagaluru,10
+2024-05-13,Chitradurga,8
+2024-05-13,Dakshina Kannada,18
+2024-05-13,Davangere,0
+2024-05-13,Dharwad,0
+2024-05-13,Gadag,2
+2024-05-13,Hassan,4
+2024-05-13,Haveri,43
+2024-05-13,Kalaburagi,0
+2024-05-13,Kodagu,16
+2024-05-13,Kolar,0
+2024-05-13,Koppal,1
+2024-05-13,Mandya,0
+2024-05-13,Mysuru,0
+2024-05-13,Raichur,7
+2024-05-13,Ramanagara,2
+2024-05-13,Shivamogga,8
+2024-05-13,Tumakuru,0
+2024-05-13,Udupi,2
+2024-05-13,Uttara Kannada,6
+2024-05-13,Vijayapura,2
+2024-05-13,Yadgir,
+2024-05-20,Bagalkote,1
+2024-05-20,Ballari,13
+2024-05-20,Belagavi,29
+2024-05-20,Bengaluru Rural,
+2024-05-20,Bengaluru Urban,128
+2024-05-20,Bidar,2
+2024-05-20,Chamarajanagara,0
+2024-05-20,Chikkaballapura,2
+2024-05-20,Chikkamagaluru,49
+2024-05-20,Chitradurga,2
+2024-05-20,Dakshina Kannada,10
+2024-05-20,Davangere,15
+2024-05-20,Dharwad,0
+2024-05-20,Gadag,1
+2024-05-20,Hassan,0
+2024-05-20,Haveri,11
+2024-05-20,Kalaburagi,0
+2024-05-20,Kodagu,0
+2024-05-20,Kolar,3
+2024-05-20,Koppal,1
+2024-05-20,Mandya,11
+2024-05-20,Mysuru,41
+2024-05-20,Raichur,2
+2024-05-20,Ramanagara,0
+2024-05-20,Shivamogga,22
+2024-05-20,Tumakuru,11
+2024-05-20,Udupi,7
+2024-05-20,Uttara Kannada,1
+2024-05-20,Vijayapura,14
+2024-05-20,Yadgir,
+2024-05-27,Bagalkote,4
+2024-05-27,Ballari,11
+2024-05-27,Belagavi,4
+2024-05-27,Bengaluru Rural,
+2024-05-27,Bengaluru Urban,450
+2024-05-27,Bidar,5
+2024-05-27,Chamarajanagara,5
+2024-05-27,Chikkaballapura,3
+2024-05-27,Chikkamagaluru,74
+2024-05-27,Chitradurga,6
+2024-05-27,Dakshina Kannada,12
+2024-05-27,Davangere,10
+2024-05-27,Dharwad,0
+2024-05-27,Gadag,6
+2024-05-27,Hassan,11
+2024-05-27,Haveri,47
+2024-05-27,Kalaburagi,15
+2024-05-27,Kodagu,2
+2024-05-27,Kolar,0
+2024-05-27,Koppal,1
+2024-05-27,Mandya,4
+2024-05-27,Mysuru,30
+2024-05-27,Raichur,1
+2024-05-27,Ramanagara,0
+2024-05-27,Shivamogga,5
+2024-05-27,Tumakuru,5
+2024-05-27,Udupi,14
+2024-05-27,Uttara Kannada,16
+2024-05-27,Vijayapura,7
+2024-05-27,Yadgir,
+2024-06-03,Bagalkote,0
+2024-06-03,Ballari,0
+2024-06-03,Belagavi,0
+2024-06-03,Bengaluru Rural,
+2024-06-03,Bengaluru Urban,3
+2024-06-03,Bidar,0
+2024-06-03,Chamarajanagara,0
+2024-06-03,Chikkaballapura,0
+2024-06-03,Chikkamagaluru,62
+2024-06-03,Chitradurga,5
+2024-06-03,Dakshina Kannada,7
+2024-06-03,Davangere,3
+2024-06-03,Dharwad,41
+2024-06-03,Gadag,0
+2024-06-03,Hassan,6
+2024-06-03,Haveri,4
+2024-06-03,Kalaburagi,0
+2024-06-03,Kodagu,0
+2024-06-03,Kolar,5
+2024-06-03,Koppal,0
+2024-06-03,Mandya,9
+2024-06-03,Mysuru,0
+2024-06-03,Raichur,0
+2024-06-03,Ramanagara,0
+2024-06-03,Shivamogga,6
+2024-06-03,Tumakuru,6
+2024-06-03,Udupi,0
+2024-06-03,Uttara Kannada,8
+2024-06-03,Vijayapura,0
+2024-06-03,Yadgir,
+2024-06-10,Bagalkote,
+2024-06-10,Ballari,
+2024-06-10,Belagavi,
+2024-06-10,Bengaluru Rural,
+2024-06-10,Bengaluru Urban,119
+2024-06-10,Bidar,
+2024-06-10,Chamarajanagara,
+2024-06-10,Chikkaballapura,
+2024-06-10,Chikkamagaluru,
+2024-06-10,Chitradurga,
+2024-06-10,Dakshina Kannada,
+2024-06-10,Davangere,
+2024-06-10,Dharwad,
+2024-06-10,Gadag,
+2024-06-10,Hassan,
+2024-06-10,Haveri,
+2024-06-10,Kalaburagi,
+2024-06-10,Kodagu,
+2024-06-10,Kolar,
+2024-06-10,Koppal,
+2024-06-10,Mandya,
+2024-06-10,Mysuru,
+2024-06-10,Raichur,
+2024-06-10,Ramanagara,
+2024-06-10,Shivamogga,
+2024-06-10,Tumakuru,
+2024-06-10,Udupi,
+2024-06-10,Uttara Kannada,
+2024-06-10,Vijayapura,
+2024-06-10,Yadgir,
+2024-06-17,Bagalkote,
+2024-06-17,Ballari,
+2024-06-17,Belagavi,
+2024-06-17,Bengaluru Rural,
+2024-06-17,Bengaluru Urban,0
+2024-06-17,Bidar,
+2024-06-17,Chamarajanagara,
+2024-06-17,Chikkaballapura,
+2024-06-17,Chikkamagaluru,
+2024-06-17,Chitradurga,
+2024-06-17,Dakshina Kannada,
+2024-06-17,Davangere,
+2024-06-17,Dharwad,
+2024-06-17,Gadag,
+2024-06-17,Hassan,
+2024-06-17,Haveri,
+2024-06-17,Kalaburagi,
+2024-06-17,Kodagu,
+2024-06-17,Kolar,
+2024-06-17,Koppal,
+2024-06-17,Mandya,
+2024-06-17,Mysuru,
+2024-06-17,Raichur,
+2024-06-17,Ramanagara,
+2024-06-17,Shivamogga,
+2024-06-17,Tumakuru,
+2024-06-17,Udupi,
+2024-06-17,Uttara Kannada,
+2024-06-17,Vijayapura,
+2024-06-17,Yadgir,
+2024-06-24,Bagalkote,
+2024-06-24,Ballari,
+2024-06-24,Belagavi,
+2024-06-24,Bengaluru Rural,
+2024-06-24,Bengaluru Urban,333
+2024-06-24,Bidar,
+2024-06-24,Chamarajanagara,
+2024-06-24,Chikkaballapura,
+2024-06-24,Chikkamagaluru,
+2024-06-24,Chitradurga,
+2024-06-24,Dakshina Kannada,
+2024-06-24,Davangere,
+2024-06-24,Dharwad,
+2024-06-24,Gadag,
+2024-06-24,Hassan,
+2024-06-24,Haveri,
+2024-06-24,Kalaburagi,
+2024-06-24,Kodagu,
+2024-06-24,Kolar,
+2024-06-24,Koppal,
+2024-06-24,Mandya,
+2024-06-24,Mysuru,
+2024-06-24,Raichur,
+2024-06-24,Ramanagara,
+2024-06-24,Shivamogga,
+2024-06-24,Tumakuru,
+2024-06-24,Udupi,
+2024-06-24,Uttara Kannada,
+2024-06-24,Vijayapura,
+2024-06-24,Yadgir,

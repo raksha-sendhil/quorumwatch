@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QuorumWatch</title>
+  <link rel="stylesheet" href="/static/app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true">
+        <line x1="8" y1="21" x2="16" y2="9"/><line x1="16" y1="9" x2="24" y2="21"/><line x1="8" y1="21" x2="24" y2="21"/>
+        <circle cx="16" cy="9" r="3.4"/><circle cx="8" cy="21" r="3.4"/><circle cx="24" cy="21" r="3.4"/>
+      </svg>
+      <div>
+        <div class="brand-name">QuorumWatch</div>
+        <div class="brand-sub">Isolation Forest + bacterial quorum-sensing layer</div>
+      </div>
+    </div>
+    <nav class="views" role="tablist">
+      <button class="view-btn on" data-view="explore" role="tab">Explore</button>
+      <button class="view-btn" data-view="results" role="tab">Results</button>
+    </nav>
+    <button class="icon-btn" id="theme" title="Switch light / dark" aria-label="Switch light or dark theme">
+      <svg viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9z"/></svg>
+    </button>
+  </header>
+
+  <!-- ===================== Explore ===================== -->
+  <main class="view" id="view-explore">
+    <div class="toolbar">
+      <label class="select-wrap">
+        <span class="sr-only">Data</span>
+        <select id="source"></select>
+      </label>
+      <label class="btn" id="upload-btn" title="Upload a case file (CSV: date, facility_id, cases)">
+        <input type="file" id="file" accept=".csv,text/csv" hidden>
+        <svg viewBox="0 0 24 24"><path d="M12 16V4M7 9l5-5 5 5M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg>
+        Upload CSV
+      </label>
+      <span class="note" id="model-note"></span>
+      <span class="summary" id="summary"></span>
+    </div>
+
+    <div class="explore-grid">
+      <section class="maps">
+        <div class="card map-card">
+          <div class="card-head">
+            <div>
+              <div class="card-title"><span class="step">1</span>Isolation Forest score</div>
+              <div class="card-sub">How unusual each <span class="u-site">district</span>'s count is against its own normal</div>
+            </div>
+          </div>
+          <svg class="map" id="map-score" role="img" aria-label="Isolation Forest score by site"></svg>
+          <div class="legend" id="legend-score"></div>
+        </div>
+        <div class="card map-card">
+          <div class="card-head">
+            <div>
+              <div class="card-title"><span class="step">2</span>Bacterial-layer signal</div>
+              <div class="card-sub">Scores shared with neighbours, accumulated and decayed; a quorum of activated neighbours raises the alert</div>
+            </div>
+          </div>
+          <svg class="map" id="map-signal" role="img" aria-label="Bacterial-layer signal by site"></svg>
+          <div class="legend" id="legend-signal"></div>
+        </div>
+      </section>
+
+      <aside class="side">
+        <div class="card" id="week-card"></div>
+        <div class="card" id="site-card"></div>
+      </aside>
+
+      <section class="card timeline-card">
+        <div class="card-head">
+          <div class="card-title">Timeline <span class="hint-inline">click any <span class="u-step">week</span> · ← → to step</span></div>
+        </div>
+        <div id="timeline"></div>
+      </section>
+    </div>
+    <div class="tooltip" id="tooltip"></div>
+  </main>
+
+  <!-- ===================== Results ===================== -->
+  <main class="view hidden" id="view-results">
+    <div class="results-head">
+      <div>
+        <h1>Does the bacterial layer help Isolation Forest?</h1>
+        <p id="results-sub">Simulated study</p>
+      </div>
+      <div class="series-legend">
+        <span><i class="sw sw-full"></i>Isolation Forest + bacterial layer</span>
+        <span><i class="sw sw-forest"></i>Isolation Forest alone</span>
+      </div>
+    </div>
+    <div class="tiles" id="tiles"></div>
+    <div class="results-grid">
+      <div class="card chart-card wide">
+        <div class="card-title">Detection versus false alerts</div>
+        <div class="card-sub">Each point is one alert threshold on the held-out test runs. Higher and further left is better.</div>
+        <div id="chart-tradeoff" class="chart"></div>
+      </div>
+      <div class="card chart-card">
+        <div class="card-title">Robustness to unreliable reporting</div>
+        <div class="card-sub">Detection at 2 false alerts per year, by share of sites with unreliable reporting (95% CI)</div>
+        <div id="chart-reliability" class="chart"></div>
+      </div>
+      <div class="card chart-card">
+        <div class="card-title">By outbreak type</div>
+        <div class="card-sub">Detection at the calibrated thresholds, by one property of the outbreak at a time</div>
+        <div id="chart-types" class="chart"></div>
+      </div>
+      <div class="card chart-card">
+        <div class="card-title">Replication on a second geography</div>
+        <div class="card-sub">The whole study repeated on an independently generated network (at 2 false alerts per year)</div>
+        <div id="table-geo"></div>
+      </div>
+      <div class="card chart-card">
+        <div class="card-title">The bacterial layer</div>
+        <div class="card-sub">Each site runs this locally, using only its own state and its neighbours' last values</div>
+        <div id="method"></div>
+      </div>
+    </div>
+    <p class="footnote">All results are from simulation (held-out test seeds; bootstrap 95% confidence intervals). Detection counts only alerts attributable to the outbreak. Real-data examples in Explore are illustrations and are not scored.</p>
+  </main>
+
+  <div class="busy hidden" id="busy"><div class="spinner"></div><span>Running the model…</span></div>
+  <div class="toast" id="toast" role="alert"></div>
+  <script src="/static/app.js"></script>
+</body>
+</html>

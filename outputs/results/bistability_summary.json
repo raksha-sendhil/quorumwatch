@@ -1,0 +1,125 @@
+{
+ "selected_parameters": {
+  "D": 0.8,
+  "delta": 0.5,
+  "beta": 1.0,
+  "K": 5.0,
+  "n": 2.2,
+  "quorum": 0.25
+ },
+ "single_node": [
+  {
+   "production_level": "zero_production",
+   "P": 0.0,
+   "n_equilibria": 1,
+   "n_stable": 1,
+   "A_stable": "0.0000",
+   "A_unstable": ""
+  },
+  {
+   "production_level": "mean_null_production",
+   "P": 0.6402482390403748,
+   "n_equilibria": 1,
+   "n_stable": 1,
+   "A_stable": "1.3941",
+   "A_unstable": ""
+  },
+  {
+   "production_level": "mean_outbreak_production",
+   "P": 3.442938804626465,
+   "n_equilibria": 1,
+   "n_stable": 1,
+   "A_stable": "8.4019",
+   "A_unstable": ""
+  }
+ ],
+ "network_two_initial_conditions": [
+  {
+   "P": 0.0,
+   "A_low_start": 0.0,
+   "A_high_start": 0.0,
+   "multistable": false
+  },
+  {
+   "P": 0.6402482390403748,
+   "A_low_start": 1.3940860033035278,
+   "A_high_start": 1.3940860033035278,
+   "multistable": false
+  },
+  {
+   "P": 3.442938804626465,
+   "A_low_start": 8.401915550231934,
+   "A_high_start": 8.401915550231934,
+   "multistable": false
+  }
+ ],
+ "selected_parameters_single_node_bistable_at_any_tested_level": false,
+ "selected_parameters_network_multistable_at_any_tested_level": false,
+ "selected_parameters_bistable_under_mean_null_production": false,
+ "validation_restricted_delay_by_isolated_node_stable_states": {
+  "1": {
+   "n_candidates": 37,
+   "mean": 10.387387387387388,
+   "best": 8.0
+  },
+  "2": {
+   "n_candidates": 19,
+   "mean": 14.6140350877193,
+   "best": 11.308333333333334
+  }
+ },
+ "comparison_parameters": {
+  "D": 0.8,
+  "delta": 0.2,
+  "beta": 2.0,
+  "K": 5.0,
+  "n": 2.2,
+  "quorum": 0.25
+ },
+ "comparison_single_node": [
+  {
+   "production_level": "zero_production",
+   "P": 0.0,
+   "n_equilibria": 3,
+   "n_stable": 2,
+   "A_stable": "0.0000;5.9041",
+   "A_unstable": "5.0000"
+  },
+  {
+   "production_level": "mean_null_production",
+   "P": 0.6402482390403748,
+   "n_equilibria": 1,
+   "n_stable": 1,
+   "A_stable": "11.9111",
+   "A_unstable": ""
+  },
+  {
+   "production_level": "mean_outbreak_production",
+   "P": 3.442938804626465,
+   "n_equilibria": 1,
+   "n_stable": 1,
+   "A_stable": "26.9753",
+   "A_unstable": ""
+  }
+ ],
+ "comparison_network_two_initial_conditions": [
+  {
+   "P": 0.0,
+   "A_low_start": 0.0,
+   "A_high_start": 5.904086589813232,
+   "multistable": true
+  },
+  {
+   "P": 0.6402482390403748,
+   "A_low_start": 11.911051750183105,
+   "A_high_start": 11.911051750183105,
+   "multistable": false
+  },
+  {
+   "P": 3.442938804626465,
+   "A_low_start": 26.97532081604004,
+   "A_high_start": 26.97532081604004,
+   "multistable": false
+  }
+ ]
+}
