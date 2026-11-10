@@ -48,6 +48,8 @@ The first launch trains the models and takes about a minute; later launches load
 - **Results:** the study's simulated results: the detection / false-alert trade-off, robustness to unreliable reporting, outbreak types, and the second geography.
 - **Upload:** a CSV with `date`, `facility_id` and `cases` columns (blank = missing report). Weekly Karnataka files use district names, dated Mondays, and need 14 warm-up weeks. Daily synthetic files use hospitals `F00`-`F29` and need 56 warm-up days (examples in [app/demo_data/synthetic/](app/demo_data/synthetic/)).
 
+[docs/UI_GUIDE.md](docs/UI_GUIDE.md) explains every map, colour, number and state shown in the app, and how to walk through a demo.
+
 For each Karnataka file the app rebuilds the model from earlier years only. The examples were chosen as clear illustrations; the app reports no performance on real data.
 
 ## Architecture

@@ -3,7 +3,10 @@
 
 const $ = s => document.querySelector(s);
 const NS = 'http://www.w3.org/2000/svg';
-const SCORE_MAX = 4;          // Isolation Forest score shown up to ln(0.5/p) = 4, i.e. the top 0.9% of normal
+// Colour scale for the Isolation Forest score P = ln(0.5/p). Daily synthetic sites calibrate on 365 days,
+// so P reaches about 4 (top 1%). Weekly districts calibrate on one year (52 weeks): P tops out at
+// ln(0.5 x 53) = 3.3, meaning "higher than every week of the calibration year".
+const scoreMax = () => (state.result && state.result.dataset === 'karnataka' ? 3.3 : 4);
 const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 const RAMPS = {
   light: { score: ['#f3ece6', '#eb6834', '#6e2508'], signal: ['#e9eff7', '#2a78d6', '#0b3570'] },
@@ -76,7 +79,7 @@ const row = (label, value) => `<div class="t-row"><span>${label}</span><b>${valu
 /* ---------------- theme & views ---------------- */
 function setTheme(name) {
   document.documentElement.setAttribute('data-theme', name);
-  try { localStorage.setItem('qw-theme', name); } catch (e) { /* storage unavailable */ }
+  try { localStorage.setItem('qw-theme-v2', name); } catch (e) { /* storage unavailable */ }
   if (state.result) { renderLegends(); renderMaps(); }
   if (state.results && state.view === 'results') renderResults();
 }
@@ -119,7 +122,6 @@ function useResult(result, sourceLabel) {
   state.site = alerting.length ? alerting[0] : argmax(s.signal[state.t]);
   document.querySelectorAll('.u-site').forEach(n => { n.textContent = unit().site.toLowerCase(); });
   document.querySelectorAll('.u-step').forEach(n => { n.textContent = unit().step.toLowerCase(); });
-  $('#model-note').textContent = result.model_note || (result.dataset === 'synthetic' ? 'Synthetic hospital network from the study' : '');
   renderSummary();
   buildMaps();
   renderLegends();
@@ -206,7 +208,7 @@ function renderMaps() {
   for (let i = 0; i < N; i++) {
     const missing = !isNum(s.reported[t][i]);
     const score = state.maps.score, signal = state.maps.signal;
-    score.shapes[i].style.fill = missing ? css('--none') : ramp('score', (s.production[t][i] || 0) / SCORE_MAX);
+    score.shapes[i].style.fill = missing ? css('--none') : ramp('score', (s.production[t][i] || 0) / scoreMax());
     signal.shapes[i].style.fill = ramp('signal', (s.signal[t][i] || 0) / scale);
     const alert = s.alert[t][i], active = s.active[t][i];
     signal.rings[i].setAttribute('class', 'ring' + (alert ? ' alert' : active ? ' active' : ''));
@@ -230,7 +232,7 @@ function siteTip(i, ev) {
 function renderLegends() {
   const p = state.meta.params;
   $('#legend-score').innerHTML =
-    `<span class="scale">normal <span class="bar" style="background:${rampCss('score')}"></span> top 1%</span>` +
+    `<span class="scale">normal <span class="bar" style="background:${rampCss('score')}"></span> ${state.result.dataset === 'karnataka' ? 'above all normal weeks' : 'top 1%'}</span>` +
     `<span class="key"><i class="box none-box"></i>No report</span>` +
     `<span class="key"><i class="box alert-box"></i>Alert</span>`;
   const mark = Math.min(100, 100 * p.signal_on / state.result.scale);
@@ -261,13 +263,13 @@ function renderTimeline() {
   if (!state.result || !box.clientWidth) return;
   const totals = state.totals = seriesTotals();
   const dates = state.result.dates, T = dates.length, N = sites().length;
-  const W = box.clientWidth, left = 150, right = 12;
+  const W = box.clientWidth, left = 190, right = 16;
   const rows = [
-    { key: 'cases', label: 'Reported cases', sub: `all ${unit().site.toLowerCase()}s`, h: 64 },
-    { key: 'unusual', label: 'Unusual score', sub: `${unit().site.toLowerCase()}s (top 5%)`, h: 40 },
-    { key: 'alert', label: 'Activated · alert', sub: `${unit().site.toLowerCase()}s`, h: 40 },
+    { key: 'cases', label: 'Reported cases', sub: `all ${unit().site.toLowerCase()}s`, h: 110 },
+    { key: 'unusual', label: 'Unusual score', sub: `${unit().site.toLowerCase()}s (top 5%)`, h: 80 },
+    { key: 'alert', label: 'Activated · alert', sub: `${unit().site.toLowerCase()}s`, h: 80 },
   ];
-  const gap = 10, axisH = 22;
+  const gap = 16, axisH = 30;
   const H = rows.reduce((a, r) => a + r.h + gap, 0) + axisH;
   box.innerHTML = '';
   const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H }, box);
@@ -277,8 +279,8 @@ function renderTimeline() {
   let y0 = 0;
   const textCol = css('--text-2');
   for (const r of rows) {
-    text(svg, 0, y0 + 14, r.label, { class: 'tl-row-label', 'font-weight': 600 });
-    text(svg, 0, y0 + 29, r.sub, { class: 'tl-row-label', fill: css('--text-3') });
+    text(svg, 0, y0 + 17, r.label, { class: 'tl-row-label', 'font-weight': 600 });
+    text(svg, 0, y0 + 36, r.sub, { class: 'tl-row-label', fill: css('--text-3') });
     el('line', { x1: left, x2: W - right, y1: y0 + r.h, y2: y0 + r.h, class: 'gridline' }, svg);
     if (r.key === 'cases') {
       const max = Math.max(1, ...totals.map(d => d.cases || 0));
@@ -289,11 +291,11 @@ function renderTimeline() {
         d += `${open ? 'L' : 'M'}${x(t)},${yy}`;
         open = true;
       });
-      el('path', { d, fill: 'none', stroke: textCol, 'stroke-width': 1.5, 'stroke-linejoin': 'round' }, svg);
-      text(svg, left - 6, y0 + 10, fmtInt(max), { class: 'tl-row-label', 'text-anchor': 'end', fill: css('--text-3') });
+      el('path', { d, fill: 'none', stroke: textCol, 'stroke-width': 2, 'stroke-linejoin': 'round' }, svg);
+      text(svg, left - 10, y0 + 12, fmtInt(max), { class: 'tl-row-label', 'text-anchor': 'end', fill: css('--text-3') });
     } else {
       const max = Math.max(4, ...totals.map(d => r.key === 'alert' ? d.active : d.unusual));
-      text(svg, left - 6, y0 + 10, String(max), { class: 'tl-row-label', 'text-anchor': 'end', fill: css('--text-3') });
+      text(svg, left - 10, y0 + 12, String(max), { class: 'tl-row-label', 'text-anchor': 'end', fill: css('--text-3') });
       totals.forEach((v, t) => {
         const draw = (value, fill) => {
           if (!value) return;
@@ -315,10 +317,10 @@ function renderTimeline() {
     if (key === lastMonth) return;
     lastMonth = key;
     if (step * 4 < 22 && d.getMonth() % 2) return;
-    if (x(t) - lastX < 56) return;
+    if (x(t) - lastX < 70) return;
     lastX = x(t);
     el('line', { x1: x(t), x2: x(t), y1: y0 - gap, y2: y0 - gap + 4 }, ax);
-    text(ax, x(t), y0 + 8, d.getMonth() === 0 || t === 0 ? `${MONTHS[d.getMonth()]} ${d.getFullYear()}` : MONTHS[d.getMonth()], { 'text-anchor': 'middle' });
+    text(ax, x(t), y0 + 12, d.getMonth() === 0 || t === 0 ? `${MONTHS[d.getMonth()]} ${d.getFullYear()}` : MONTHS[d.getMonth()], { 'text-anchor': 'middle' });
   });
   state.tl = { svg, x, left, right, W, H, T, plotBottom: y0 - gap };
   state.tl.hover = el('line', { y1: 0, y2: y0 - gap, class: 'hover-line', visibility: 'hidden' }, svg);
@@ -362,9 +364,9 @@ function renderWeek() {
     <div class="card-title">${stepLabel(t)}</div>
     <div class="stats">
       <div class="stat"><b>${v.cases === null ? '–' : fmtInt(v.cases)}</b><span>reported ${unit().value} (${v.reported}/${sites().length} reporting)</span></div>
-      <div class="stat"><b>${v.unusual}</b><span>unusual forest score</span></div>
-      <div class="stat"><b>${v.active}</b><span>activated</span></div>
-      <div class="stat ${v.alert ? 'alerting' : ''}"><b>${v.alert}</b><span>in regional alert</span></div>
+      <div class="stat"><b>${v.unusual}</b><span>${unit().site.toLowerCase()}s with an unusual forest score</span></div>
+      <div class="stat"><b>${v.active}</b><span>${unit().site.toLowerCase()}s activated</span></div>
+      <div class="stat ${v.alert ? 'alerting' : ''}"><b>${v.alert}</b><span>${unit().site.toLowerCase()}s in regional alert</span></div>
     </div>
     <div class="list">${alerting.length ? 'In alert: ' + chips(alerting, 'alert') : 'No regional alert this ' + unit().step.toLowerCase() + '.'}
       ${activeOnly.length ? '<div style="margin-top:6px">Activated: ' + chips(activeOnly, '') + '</div>' : ''}</div>`;
@@ -393,14 +395,14 @@ function renderSite() {
     <div id="sparks"></div>`;
   const box = card.querySelector('#sparks');
   spark(box, `${unit().value}`, s.reported.map(r => r[i]), { kind: 'bar', color: css('--text-2') });
-  spark(box, 'Isolation Forest score', s.production.map(r => r[i]), { color: ramp('score', 0.62), max: SCORE_MAX });
+  spark(box, 'Isolation Forest score', s.production.map(r => r[i]), { color: ramp('score', 0.62), max: scoreMax() });
   spark(box, 'Bacterial-layer signal', s.signal.map(r => r[i]), { color: ramp('signal', 0.55), threshold: p.signal_on });
 }
 function spark(parent, label, values, opts) {
   const wrap = document.createElement('div');
   wrap.className = 'spark';
   const s = state.result.series, i = state.site, T = values.length;
-  const W = 300, H = 46;
+  const W = 300, H = 72;
   const max = Math.max(opts.max || 0, opts.threshold ? opts.threshold * 1.25 : 0, ...values.filter(isNum), 1e-6);
   wrap.innerHTML = `<div class="spark-label"><span>${label}</span><span>max ${fmt(Math.max(...values.filter(isNum), 0), opts.kind === 'bar' ? 0 : 1)}</span></div>`;
   const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, width: '100%', height: H, preserveAspectRatio: 'none' }, wrap);
@@ -505,11 +507,11 @@ function axes(svg, m, W, H, xs, ys, opts = {}) {
   for (const v of ys.ticks) {
     const yy = ys.f(v);
     el('line', { x1: m.l, x2: W - m.r, y1: yy, y2: yy, class: 'gridline' }, g);
-    text(g, m.l - 8, yy + 4, ys.fmt(v), { 'text-anchor': 'end' });
+    text(g, m.l - 10, yy + 5, ys.fmt(v), { 'text-anchor': 'end' });
   }
-  if (xs) for (const v of xs.ticks) text(g, xs.f(v), H - m.b + 18, xs.fmt(v), { 'text-anchor': 'middle' });
+  if (xs) for (const v of xs.ticks) text(g, xs.f(v), H - m.b + 22, xs.fmt(v), { 'text-anchor': 'middle' });
   if (opts.xLabel) text(g, (m.l + W - m.r) / 2, H - 4, opts.xLabel, { 'text-anchor': 'middle' });
-  if (opts.yLabel) text(g, 12, (m.t + H - m.b) / 2, opts.yLabel, { 'text-anchor': 'middle', transform: `rotate(-90 12 ${(m.t + H - m.b) / 2})` });
+  if (opts.yLabel) text(g, 16, (m.t + H - m.b) / 2, opts.yLabel, { 'text-anchor': 'middle', transform: `rotate(-90 16 ${(m.t + H - m.b) / 2})` });
 }
 function interp(points, x) {
   if (x < points[0][0] || x > points[points.length - 1][0]) return null;
@@ -522,7 +524,7 @@ function interp(points, x) {
 function chartTradeoff(R) {
   const box = $('#chart-tradeoff');
   box.innerHTML = '';
-  const W = Math.max(320, box.clientWidth), H = 300, m = { l: 52, r: 150, t: 12, b: 40 };
+  const W = Math.max(320, box.clientWidth), H = 420, m = { l: 70, r: 200, t: 16, b: 52 };
   const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H }, box);
   const series = { full: R.tradeoff.full, forest_alone: R.tradeoff.forest_alone };
   const xmax = 5;
@@ -537,7 +539,7 @@ function chartTradeoff(R) {
   for (const [key, pts] of Object.entries(series)) {
     const shown = pts.filter(p => p[0] <= xmax);
     el('path', { d: shown.map((p, k) => `${k ? 'L' : 'M'}${X(p[0])},${Y(p[1])}`).join(''), fill: 'none', stroke: colors[key], 'stroke-width': 2, 'stroke-linejoin': 'round' }, svg);
-    for (const p of shown) el('circle', { cx: X(p[0]), cy: Y(p[1]), r: 2.6, fill: colors[key] }, svg);
+    for (const p of shown) el('circle', { cx: X(p[0]), cy: Y(p[1]), r: 3.5, fill: colors[key] }, svg);
     const last = shown[shown.length - 1];
     text(svg, X(last[0]) + 8, Y(last[1]) + (key === 'full' ? -4 : 12), names[key], { class: 'direct' });
   }
@@ -562,7 +564,7 @@ function chartTradeoff(R) {
 function chartReliability(geo, target) {
   const box = $('#chart-reliability');
   box.innerHTML = '';
-  const W = Math.max(300, box.clientWidth), H = 360, m = { l: 48, r: 12, t: 16, b: 44 };
+  const W = Math.max(300, box.clientWidth), H = 440, m = { l: 60, r: 16, t: 20, b: 56 };
   const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H }, box);
   const groups = [['high_reliability', '10%'], ['medium_reliability', '30%'], ['low_reliability', '50%']];
   const lo = 0.5;
@@ -573,12 +575,12 @@ function chartReliability(geo, target) {
   groups.forEach(([key, label], g) => {
     const sc = geo.scenarios.find(s => s.scenario === key);
     const cx = m.l + band * (g + 0.5);
-    text(svg, cx, H - m.b + 18, label, { 'text-anchor': 'middle', class: 'lab' });
+    text(svg, cx, H - m.b + 24, label, { 'text-anchor': 'middle', class: 'lab' });
     ['full', 'forest_alone'].forEach((method, j) => {
-      const d = sc[method].detection, xx = cx + (j ? 14 : -14);
+      const d = sc[method].detection, xx = cx + (j ? 20 : -20);
       el('line', { x1: xx, x2: xx, y1: Y(d[2]), y2: Y(d[1]), stroke: colors[method], 'stroke-width': 2, 'stroke-linecap': 'round', opacity: .55 }, svg);
-      const dot = el('circle', { cx: xx, cy: Y(d[0]), r: 5, fill: colors[method], stroke: css('--surface'), 'stroke-width': 2 }, svg);
-      text(svg, xx + (j ? 9 : -9), Y(d[0]) + 4, d[0].toFixed(2), { class: 'lab', 'text-anchor': j ? 'start' : 'end' });
+      const dot = el('circle', { cx: xx, cy: Y(d[0]), r: 7, fill: colors[method], stroke: css('--surface'), 'stroke-width': 2 }, svg);
+      text(svg, xx + (j ? 12 : -12), Y(d[0]) + 5, d[0].toFixed(2), { class: 'lab', 'text-anchor': j ? 'start' : 'end' });
       const hitArea = el('rect', { x: xx - 10, y: m.t, width: 20, height: H - m.t - m.b, fill: 'transparent' }, svg);
       hitArea.addEventListener('mousemove', ev => tip.show(`<div class="t-head">${label} unreliable · ${method === 'full' ? 'IF + bacterial layer' : 'IF alone'}</div>` +
         row('Detection', d[0].toFixed(2)) + row('95% CI', ci(d)) + row('Delay', `${fmt(sc[method].delay[0], 1)} days`), ev));
@@ -601,9 +603,9 @@ function chartTypes(rows) {
   const box = $('#chart-types');
   box.innerHTML = '';
   const dims = [['peak_band', 'Peak rise'], ['ramp_days', 'Onset'], ['duration_days', 'Duration'], ['cluster_size', 'Sites affected']];
-  const rowH = 20, headH = 22;
+  const rowH = 28, headH = 30;
   const n = rows.length;
-  const W = Math.max(300, box.clientWidth), m = { l: 118, r: 16, t: 4, b: 30 };
+  const W = Math.max(300, box.clientWidth), m = { l: 160, r: 20, t: 4, b: 38 };
   const H = m.t + m.b + n * rowH + dims.length * headH;
   const svg = el('svg', { viewBox: `0 0 ${W} ${H}`, height: H }, box);
   const lo = 0.5;
@@ -611,19 +613,19 @@ function chartTypes(rows) {
   const g = el('g', { class: 'axis' }, svg);
   for (const v of [.5, .6, .7, .8, .9, 1]) {
     el('line', { x1: X(v), x2: X(v), y1: m.t, y2: H - m.b, class: 'gridline' }, g);
-    text(g, X(v), H - m.b + 16, v.toFixed(1), { 'text-anchor': 'middle' });
+    text(g, X(v), H - m.b + 22, v.toFixed(1), { 'text-anchor': 'middle' });
   }
   const colors = { full: css('--full'), forest_alone: css('--forest') };
   let y = m.t;
   for (const [dim, title] of dims) {
-    text(svg, 0, y + 15, title, { class: 'group' });
+    text(svg, 0, y + 20, title, { class: 'group' });
     y += headH;
     for (const r of rows.filter(r => r.dimension === dim)) {
       const cy = y + rowH / 2;
-      text(svg, 8, cy + 4, typeLabel(dim, r.value), { class: 'lab' });
+      text(svg, 10, cy + 5, typeLabel(dim, r.value), { class: 'lab' });
       el('line', { x1: X(r.forest_alone), x2: X(r.full), y1: cy, y2: cy, stroke: css('--text-3'), 'stroke-width': 2, opacity: .5 }, svg);
-      el('circle', { cx: X(r.forest_alone), cy, r: 4.5, fill: colors.forest_alone, stroke: css('--surface'), 'stroke-width': 1.5 }, svg);
-      el('circle', { cx: X(r.full), cy, r: 4.5, fill: colors.full, stroke: css('--surface'), 'stroke-width': 1.5 }, svg);
+      el('circle', { cx: X(r.forest_alone), cy, r: 6, fill: colors.forest_alone, stroke: css('--surface'), 'stroke-width': 1.5 }, svg);
+      el('circle', { cx: X(r.full), cy, r: 6, fill: colors.full, stroke: css('--surface'), 'stroke-width': 1.5 }, svg);
       const hit = el('rect', { x: 0, y, width: W, height: rowH, fill: 'transparent' }, svg);
       hit.addEventListener('mousemove', ev => tip.show(`<div class="t-head">${title}: ${typeLabel(dim, r.value)}</div>` +
         row('IF + bacterial layer', r.full.toFixed(2)) + row('IF alone', r.forest_alone.toFixed(2)) + row('Test runs', r.n), ev));
@@ -663,8 +665,8 @@ function methodCard(p) {
 /* ================= start ================= */
 async function start() {
   let saved = null;
-  try { saved = localStorage.getItem('qw-theme'); } catch (e) { /* storage unavailable */ }
-  setTheme(saved || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
+  try { saved = localStorage.getItem('qw-theme-v2'); } catch (e) { /* storage unavailable */ }
+  setTheme(saved || 'light');
   $('#theme').addEventListener('click', () => setTheme(theme() === 'dark' ? 'light' : 'dark'));
   document.querySelectorAll('.view-btn').forEach(b => b.addEventListener('click', () => setView(b.dataset.view)));
   $('#source').addEventListener('change', ev => { const v = ev.target.value; if (v.startsWith('demo:')) loadDemo(v.slice(5)); });
